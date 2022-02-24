@@ -1,0 +1,2353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mite into the treasury being a word to artists, especially to heptatechnists, the professors of the seven liberal arts ... shewing what we own herein, being according to God and Godliness, and of God and what we deny, proceeding from and favouring of those deceitful lips which seduced man from his primitive station, a state of blessedness / [by] Thomas Lawson.</title>
+            <author>Lawson, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49810</idno>
+            <idno type="STC">Wing L726</idno>
+            <idno type="STC">ESTC R30492</idno>
+            <idno type="EEBO-CITATION">11342689</idno>
+            <idno type="OCLC">ocm 11342689</idno>
+            <idno type="VID">47507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47507)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mite into the treasury being a word to artists, especially to heptatechnists, the professors of the seven liberal arts ... shewing what we own herein, being according to God and Godliness, and of God and what we deny, proceeding from and favouring of those deceitful lips which seduced man from his primitive station, a state of blessedness / [by] Thomas Lawson.</title>
+                  <author>Lawson, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>51 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and education --  England.</term>
+               <term>Education, Humanistic --  Religious and moral aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47507:1"/>
+            <pb facs="tcp:47507:1" rendition="simple:additions"/>
+            <p>A <hi rend="blackletterType">Mite into the Treaſury,</hi> Being a
+Word to ARTISTS, Eſpecially to HEPTATECHNISTS, The Profeſſors of the
+<hi>Seven Liberal Arts,</hi> ſo called, <hi>Grammer, Logick, Rhetorick,
+Muſick, Arithmetick, Geometry, Aſtronomy.</hi> Shewing what we own herein,
+being according to God and Godlineſs, and of God; and what we deny,
+proceeding from and ſavouring of thoſe deceitful Lips, which ſedu<g ref="char:EOLhyphen"/>ced Man
+from his Primitive Station, a State of Bleſſedneſs. Several other things
+are herein touched, as in the following Contents appear.</p>
+            <q> 
+               <l>Indocti rapiunt coelum, nos cum doctrina,</l> 
+               <l>Noſtra trudimur in Infernum, Auguſt.</l>
+            </q>
+            <q> 
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nlearned Men take Heaven by Violence,</hi>
+               </l> 
+               <l>
+                  <hi>Proud Rabbies Hell, when they depart from Hence,</hi>
+               </l> 
+               <l>
+                  <hi>Poor Fiſhermen do find the way to Heaven,</hi>
+               </l> 
+               <l>
+                  <hi>When Schollars go aſtray, who Arts have Seven;</hi>
+               </l> 
+               <l>
+                  <hi>For Humane Learning, and ſuch kind of Preaching,</hi>
+               </l> 
+               <l>
+                  <hi>Is nothing to the Bleſſed Spirit's Teaching.</hi>
+               </l> 
+               <bibl>War with the Devil, by <hi>B. K.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Thomas Lawſon.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Andrew Sowle,</hi> 1680.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:47507:2"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <item>OF the Original of Languages, and of Grammer. <hi>Cap.
+1.</hi>
+               </item>
+               <item>Of Logick. <hi>Cap. 2.</hi>
+               </item>
+               <item>Of Rhetorick. <hi>Cap. 3.</hi>
+               </item>
+               <item>Of Muſick. <hi>Cap. 4.</hi>
+               </item>
+               <item>Of the Riſe of Muſical Inſtruments in the Churches
+profeſſing Chriſtianiiy. <hi>Cap. 5.</hi>
+               </item>
+               <item>Of Arithmetick. <hi>Cap. 6.</hi>
+               </item>
+               <item>Of Geometry. <hi>Cap. 7.</hi>
+               </item>
+               <item>Of Aſtronomy and Aſtrology. <hi>Cap. 8.</hi>
+               </item>
+               <item>Of Divinity and Heathen Phyloſophy, and againſt teaching
+Heathen Books. <hi>Cap. 9.</hi>
+               </item>
+               <item>Of School Titles, Degrees, as Doctors, Batchellors of Arts,
+<hi>&amp;c. Cap. 10.</hi>
+               </item>
+               <item>Of the Riſe of Diſtinct Habits, Gowns, ſquare Caps,
+<hi>&amp;c.</hi> uſed by the Clergy, and by <g ref="char:V">Ʋ</g>niverſity Students. <hi>Cap.
+11.</hi>
+               </item>
+               <item>Of the Clergies Garmemts being of one Colour. <hi>Cap.
+12.</hi>
+               </item>
+               <item>Of the Pall. <hi>Cap. 13.</hi>
+               </item>
+               <item>Of the Suplice. <hi>Cap. 14.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="3" facs="tcp:47507:2"/>A MITE INTO THE Treaſury, &amp;c.</head>
+         <div n="1" type="chapter">
+            <head>CAP. I. Of the Original of Languages, and of
+<hi>Grammer.</hi>
+            </head>
+            <p>COlledge Doctors (as 'tis ſaid) have for their <hi>Arms</hi> the
+<hi>Book with Seven Seals:</hi> And why? Becauſe they are skilled in the
+Seven Liberal Arts or Sciences, as though the Seven Liberal Arts, acquired by
+Natural Search, could open the Book with Seven Seals: This is Abſurd and
+Fooliſh, if not Blaſphemous.</p>
+            <p>
+               <hi>John</hi> ſaw in the Right Hand of him that ſate on the
+Throne, a Book ſealed with ſeven Seals; and a ſtrong Angel proclaimed,
+<hi>Who is worthy to open the Book, and to looſe the Seals thereof?</hi> No
+Man in Heaven, nor in Earth, neither under the Earth, could do this, all Mouths
+were ſhut; no Critical Grammarian, no Subtil Logician, no Painted
+Rhetorician, no Melodious Muſician, no Nimble Arithmetitian, no Accurate
+Geometrition, no Airy Aſtro<g ref="char:EOLhyphen"/>nomer durſt appear, or was found worthy;
+<hi>Then one of the Elders ſaid, Weep not, the</hi> Lion <hi>of the Tribe
+of</hi> Judah <hi>hath prevailed to open the Book, and to looſe the Seales
+thereof,</hi> Rev. 5. So let <hi>Colledge Do<g ref="char:EOLhyphen"/>ctors</hi> ſay what they can,
+'tis not Natural Arts, nor Artiſts, but the Lyon of the Tribe of
+<hi>Judah,</hi> and he alone that can open the Seals thereof; all others are
+excluded as Impotent and Unworthy.</p>
+            <p>
+               <hi>Joſephus</hi> in his <hi>Antiquities</hi> writes, That the
+Children of <hi>Noah</hi> 
+               <pb n="4" facs="tcp:47507:3"/>dwelt divers Years after the Flood
+upon Hills and Mountains, as fearing a ſecond Flood, until ſuch times as
+<hi>Shem, Ham</hi> and <hi>Japhet</hi> adventur'd to make their Habitations in
+the lower Grounds. New <hi>Nimrod,</hi> upon Promiſe of Defence and
+Protection, took upon him Rule and Dominion over others, to be their Captain
+and Commander, and to provide a Remedy for their Safety, in caſe of another
+Flood; he invented the building of a Tower, ſo high, as no Flood of Water
+might over-top it, it contained in height 5164. Paces (as <hi>Hidore</hi>
+ſaith) ſo that it ſeemed rather a wonderful great Mountain than a Tower;
+the paſſage to mount up was wide, and went winding on th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out-ſide, in which the Carriages were
+born, and drawn up by Camels, Dromedaries, Horſes, Aſſes and Mules with
+Carts; the Almighty beholding their Proud Attempt, 
+<q> 
+                  <l>Propterea dedit ora ſono difcordia, et omnes.</l> 
+                  <l>Jamlinguis varios, varias diſperſit in oras.</l> 
+                  <bibl>Virg. Evangeliſ.</bibl>
+               </q> That is, Bereaved them of their
+Natural Speech, which till then (as <hi>Joſephus</hi> writes) was but one, to
+wit, the <hi>Hebrew Tongue,</hi> as moſt affirm, and inſtead thereof gave
+them Seventy Two different Languages, as Authors Report; from this confuſed
+Chat<g ref="char:EOLhyphen"/>tering among them, aroſe much Anger and Vexation, becauſe one could
+not underſtand another: So theſe New-languaged Ma<g ref="char:EOLhyphen"/>ſons were forced to
+leave the Tower Unfiniſhed; they run up and down like Mad-Men, labouring to
+find ſuch as they could under<g ref="char:EOLhyphen"/>ſtand; and this labour of ſeeking one
+another endured till ſuch times as they were grown to ſo many Companies, or
+Troops of Men, as there were different Languages among them, to wit, Seventy
+Two; and each Company, or Troop, that underſtood one another, reſolved to
+depart divers ways, to ſeek themſelves new and ſeveral Habitations:
+Hence, according to the diſtinct Tongues, as many different and diſtinct
+Nations were begun. Thus of one Language and one Nation, through
+<hi>Nimrod</hi>'s Arrogant and Ambitious Enterpriſe, came Seventy Two
+Languages and Na<g ref="char:EOLhyphen"/>tions, as divers affirm; <hi>Verſt.</hi> and others.</p>
+            <p>This Tower was called <hi>Babel,</hi> which ſignifies
+<hi>Confuſion,</hi> becauſe there their Language was Confounded; ſo from
+this, when we hear a man ſpeak confuſedly, we ſay, he <hi>Babbles,</hi>
+or we call him <pb n="5" facs="tcp:47507:3"/>a <hi>Babbler.</hi> Here is the Original of
+many Languages, Proud <hi>Nim<g ref="char:EOLhyphen"/>rod</hi> brought in <hi>Babel,</hi> C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, many Languages: Let Linguiſts
+glorying in their Languages <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+this.</p>
+            <p>Thus of one Nation <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+Language, many Nations and Lan<g ref="char:EOLhyphen"/>guages were brought
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who were as
+<hi>Barbarians</hi> one to another; then to the end they might be capacitated
+for the management of Forreign Tranſactions, Negotiation and Correſpondance
+with o<g ref="char:EOLhyphen"/>ther Nations, a Concern entred Mens Minds, for the learning of Forreign
+Languages, and in order thereunto <hi>Grammer</hi> was invented, defined to be
+an Art teaching to Write and Read rightly; and one <hi>Epicurus</hi> a
+<hi>Heathen,</hi> as Authors affirm, was the firſt that taught <hi>Grammer,
+Pol. Virg.</hi> lib 1. cap. 7. <hi>Alſted, Voſſius,</hi> &amp;c.</p>
+            <p>
+               <hi>Suetoneus</hi> ſaith, 
+<q rend="inline">'That Grammer and Rhetorick had almoſt the ſame
+Original; for men obſerving what was fit and proper in Speech, and what was
+unfit and improper, what was to be imita<g ref="char:EOLhyphen"/>ted, and what was to be rejected,
+hereupon hammer'd out this Art,' <hi>Pol. Virg.</hi> lib. 1. cap. 7.</q>
+            </p>
+            <p>The ſame <hi>Suetonius</hi> ſaith, 
+<q rend="inline">'That Grammer formerly was nei<g ref="char:EOLhyphen"/>ther uſed nor
+regarded at <hi>Rome;</hi> and that at length one <hi>Crates Melotes</hi>
+brought the Study thereof to <hi>Rome,</hi> being ſent to the Senate by King
+<hi>Attalus</hi> between the firſt and third <hi>Carthaginian</hi> War, about
+or a little before the Death of <hi>Eunius,</hi>' <hi>Pol. Virg.</hi> lib.
+1.</q>
+            </p>
+            <p>In the time of the <hi>Saxon</hi> Heptarchy <hi>Auſtin</hi> the
+Monk, with o<g ref="char:EOLhyphen"/>thers, came from <hi>Rome</hi> into this Nation, and brought the
+Faith and School Education of Papal <hi>Rome,</hi> received from Ethnick
+<hi>Rome,</hi> to among the <hi>Saxons;</hi> ſo that many Prophane,
+Obſcene, Laſcivious, Corrupting and Depraving Authors came into our
+Schools, which are yet continued, notwithſtanding the Endeavours and Attempts
+of many to cradicate the ſame.</p>
+            <p>
+               <hi>Seigebert,</hi> King of the <hi>Eaſt-Angles,</hi> of the
+Romiſh Faith, ha<g ref="char:EOLhyphen"/>ving learned in <hi>France</hi> the manner of their Schools,
+tranſlated from <hi>Athens</hi> to <hi>Rome,</hi> and from <hi>Rome</hi> to
+<hi>Paris</hi> by <hi>Charles</hi> the Great, made <hi>Cambridge</hi> an
+Univerſity, about the Year 630. The Lectures there were begun by four Monks:
+Fryar <hi>Ode</hi> read <hi>Grammer; Te<g ref="char:EOLhyphen"/>ricus</hi> read <hi>Ariſtotle</hi>'s
+<hi>Logick;</hi> Fryar <hi>William</hi> read <hi>Rhetorick;</hi> Fryar
+<hi>Giſlebert</hi> read <hi>Divinity</hi> to them on <hi>Sundays</hi> and
+<hi>Saints-days,</hi> ſo called.</p>
+            <p>
+               <pb n="6" facs="tcp:47507:4"/>About the Year 668. by meanes of
+<hi>Theodore,</hi> a learned Greekiſh Monk of <hi>Tarſus,</hi> whom Pope
+<hi>Vitalian</hi> had ordained Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> the
+<hi>Greek</hi> and <hi>Latin</hi> Tongue, with other Liberal Arts, as
+<hi>Arithmetick, Muſick, Aſtronomy,</hi> &amp;c. began firſt to
+flouriſh among the <hi>Saxons,</hi> ſaith <hi>Milton.</hi>
+            </p>
+            <p>About the Year 895. King <hi>Alferd,</hi> through the Perſwaſion
+of Monk <hi>Neotus,</hi> made <hi>Oxford</hi> a publick Univerſity, and
+appointed Maintenance for the Profeſſors of Learning there, <hi>Geor.
+Lilius</hi> in <hi>Chron. Brit.</hi>
+            </p>
+            <p>Further, I ſay, that if all Heatheniſh, Obſcene, Laſcivious
+and Unprofitable Books were decryed, whoſe tendency is to Deprave, Spoil,
+Corrupt and Debauc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Youth, and all
+Honeſt, Uſeful and Profitable Books were faithfully tranſlated into
+<hi>Engliſh,</hi> the <hi>Latin</hi> Trade need not be ſo magnified, which
+ſome Honeſt and Wiſe in their Day had in their thoughts. But in as much
+as the learning of Languages are uſeful for the Management of Forreign
+Tranſacti<g ref="char:EOLhyphen"/>ons, Negotiations and Correſpondence with other Nations, as
+before, I ſpeak not againſt the ſame, nor againſt Grammer,
+con<g ref="char:EOLhyphen"/>tributing to the attainment thereof, only I give my judgment as fol<g ref="char:EOLhyphen"/>loweth;
+and do wiſh:</p>
+            <p n="1">1. That Grammers were not ſo tedious, finding that the great
+heaps of Rules, Exceptions, Criticiſms and Nicities therein are a
+diſcouragement to many, and purſued by others, as the only
+Ne<g ref="char:EOLhyphen"/>ceſſaries, Sound, Uſeful, Solid and Profitable Matter; being in the
+mean time neglected, the Comments of Grammarians (ſaith <hi>M.Fab. Quintilian
+Inſtitut.</hi> lib. 1.) are ſo ſtuffed with Impediments and Hindrances,
+as that they are ſcarce well underſtood of the Compo<g ref="char:EOLhyphen"/>ſers; 'tis a Rule of
+knowing <hi>Hebricians,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that
+is, <hi>Let a Man always teach his Schol<g ref="char:EOLhyphen"/>lars in a ſhort way.</hi> Further,
+<hi>Voſſius</hi> ſaith in his <hi>Grammer, That the great heap of Rules
+are very hurtful to Children.</hi>
+            </p>
+            <p n="2">2. It being that Grammer conſiſts of Rules and Examples, I
+could wiſh that all Examples therein were Sound and Savoury, that in reading
+thereof, nothing but what ſavours of, and encourages to a virtuous courſe
+of Living, might be inſtilled into the Reader; how precious were it if their
+Souls, like <hi>Gideons</hi> Fleece, did drink up betime the pearly Dew of
+Divine Grace, and Heaven-bred Wiſ<g ref="char:EOLhyphen"/>dom! Children are to be trained up in the
+Lord's Way, and in the <pb n="7" facs="tcp:47507:4"/>Lords Language; not in the Way of the
+Heathen, nor in bad, vitious and infecting Words; evil Communications as the
+choſen Veſſel <hi>Paul</hi> bears record) corrupt good Manners.</p>
+            <p n="3">3. It being that Grammer is an A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, teaching to Write and Read rightly, ought it not to be
+obſerved in Writing, Reading and Speak<g ref="char:EOLhyphen"/>ing? Yes. But all that in Writing or
+Speaking uſe <hi>Ye</hi> or <hi>You</hi> to one Perſon, High or Low, Poor
+or Rich, ſuch are out of the Right, Sound, Proper Speech, and deviate from
+the Form of Sound Words, and from the Rule and Order of Grammer.</p>
+            <p>The World conſiſts of many Nations, whereof each hath a
+pecu<g ref="char:EOLhyphen"/>liar Language, Speech or Dialect; yet all concur, and are unani<g ref="char:EOLhyphen"/>mous in
+the account of Number, <hi>Singular</hi> and <hi>Plural, I, Thou, He,</hi>
+imports but One, <hi>We, Ye, They</hi> imports more then One; and 'twere as
+proper to ſay <hi>Thou</hi> to a Thouſand, as to ſay <hi>You</hi> or
+<hi>Ye</hi> to One Man, both being Abſurd, Improper and Ridiculous.</p>
+            <p>Do not all <hi>Grammarians</hi> in teaching their reſpective
+Languages or Tongues, as <hi>Eagliſh, Latin, Greek, Hebrew, Italian, Caldee,
+Syriack, Arabick, Perſian, Ethiopian, Samaritan, Captick</hi> or
+<hi>Aegyptick, Armenian, Saxon, Welch, Corniſh, French, Spaniſh, Portugal,
+High Dutch, Low Dutch, Daniſh, Bohemian, Sclavonian, Polonian, Lithuanian,
+Iriſh, Swediſh, Turkiſh, Muſcovian,</hi> &amp;c. I ſay, do they not
+all diſtinguiſh between <hi>Singular Number</hi> and <hi>Plural,</hi> which
+is, <hi>Thou</hi> to One, <hi>You</hi> or <hi>Ye</hi> to more then One? I
+ſay, Yes.</p>
+            <p>Do not <hi>Roman</hi> Authors, and others, as Poets, Comedians,
+Trage<g ref="char:EOLhyphen"/>dians, Orators, Hiſtorians, Philoſopers, highly eſteemed in Schools
+and Univerſities, obſerve this diſtinction? Yes.</p>
+            <p>Are not Children blamed, yea, and entertained with <hi>Orbilian</hi>
+Severity in Schools of Literature, if they uſe one Number for an<g ref="char:EOLhyphen"/>other? And
+why they ſhould not in other places, upon all accounts and occaſions
+obſerve the true property of Speech, in relation to this diſtinction of
+Numbers, let them ſhew a Reaſon that can.</p>
+            <p>Object. <hi>'Tis true,</hi> ſay ſome, <hi>this diſtinction of
+Numbers cannot be ſpoken againſt, in order to Grammatical Conſideration,
+and Verity of Speech; but a Cuſtom to the contrary hath got entrance, ſo
+that 'tis un<g ref="char:EOLhyphen"/>civil and improper to uſe the Word</hi> Thou <hi>to ſome
+perticular Perſon.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:47507:5"/>
+               <hi>Anſw.</hi> To account <hi>Thou</hi> to a
+ſingle Perſon, High or Low, Rich or Poor, Uncivil, Clowniſh or Improper,
+'tis no leſs then to accuſe God himſelf, Chriſt, the Upright
+Patriarchs, Holy Prophets, Seers, Evangeliſts, Diſciples, Apoſtles,
+Goſpel Biſhops, Elders, Pallors, Deacons, Primitive Saints, Holy Martyrs,
+who never uſed any other Language; yea, and 'tis no leſs then to accuſe
+all Languages upon the Face of the Earth, which according to the property
+thereof obſerve this diſtinction.</p>
+            <p>
+               <hi>Luther,</hi> much eſteemed in his Age, and deſervedly owned
+plain<g ref="char:EOLhyphen"/>neſs of Speech, holding out <hi>You</hi> or <hi>Ye</hi> to one to be
+Ridiculous, Fooliſh, Abſurd and Impertinent. <hi>Lud. Int Oper.</hi>
+            </p>
+            <p>
+               <hi>Eraſmus</hi> derided the impertinent Speech of uſing
+<hi>You</hi> to one, <hi>E<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſ.
+Col.</hi>
+            </p>
+            <p>Muſt the Language of the Antient of Days, of Chriſt, of the Holy
+men of God be ſlighted, becauſe of an Unſound, Abſurd and Impertinent
+Cuſtom crept in, in the Night of Apoſtacy? Muſt the Glorious Work of
+Reformation be ſhut out upon ſuch frivolous accounts? The Apoſtle of the
+Lamb bore Record, ſaying, <hi>If any Man be in Chriſt, he is a New
+Creature, old things are done away.</hi> Not only the Works, but the Fooliſh,
+Abſurd and Impertinent Wordt of the Old Man, that the Work of Reformation may
+proſper. This uſing of <hi>You</hi> or <hi>Ye</hi> to a perticular
+Perſon, <hi>â principio non ita ſuit,</hi> it was not ſo from the
+beginning: <hi>Tertullian,</hi> an Antient and Learned Latin Father, ſaid
+thus, 
+<q rend="inline">'That is true, which was firſt; that was firſt,
+which was from the beginning; that was from the beginning, which was from the
+Apoſtles.'</q> The Apoſtles, who derived the ground of their Works and
+Words, from him who was before all Time, uſed no ſuch impertinent Speech.
+<hi>Auguſtin,</hi> Biſhop of <hi>Hippo,</hi> in or about the Year 399. did
+not ſo magnifie groundleſs Cuſtom, as his Teſtimony implies, who
+ſaid, 
+<q rend="inline">'Cuſtom is not to be prefered before Truth, but
+ought to give place to the Truth.'</q> Not only in Works, ſay I, but in Words
+alſo. Again the ſame <hi>Auguſtin</hi> ſaid, 
+<q rend="inline">'Cuſtom crept in among ſome, ought not to hinder
+the Truth from Prevailing and Conquering: For Cuſtom (ſaith he) without
+Truth, is nothing but Gray-hair'd or Old Error: Wherefore (ſaith he)
+forſaking Error, let us follow Truth.'</q> Chriſt is the Way, the Truth and
+the Life, who was never ſound in ſuch abſurd, improper and impertinent
+Speech.</p>
+            <p>
+               <pb n="9" facs="tcp:47507:5"/>Further, <hi>James Howel</hi> ſaith, in his
+Epiſtle dedicated to the No<g ref="char:EOLhyphen"/>bility and Gentry of <hi>Great Britain,</hi>
+which he annexed to a <hi>French Engliſh</hi> Dictionary, compiled by
+<hi>Randle Cotgrave,</hi> Printed in the Year 1650. That it was the Stile of
+<hi>France</hi> at firſt, as well as of o<g ref="char:EOLhyphen"/>ther Countries, <hi>Tutoyer,</hi>
+that is to ſay, <hi>Thou</hi> to any particular Per<g ref="char:EOLhyphen"/>ſon they ſpoke unto;
+but when the Common wealth of <hi>Rome</hi> turn<g ref="char:EOLhyphen"/>ed into an Empire, ſo much
+Power came into one Mans Hand; then in regard he was able to confer Honour and
+Offices, the Countries began to magnifie him, and to uſe <hi>You</hi> unto
+him. See <hi>Symmathus</hi> his Epiſtles to the Emperor
+<hi>Theodoſius,</hi> and to <hi>Valentinian.</hi>
+            </p>
+            <p>Again, Pope <hi>Clement</hi> in his Letter to <hi>Sigiſmund</hi>
+the Emperor, wrote <hi>We,</hi> when it was ſent from him only, and
+<hi>You,</hi> when it was ſent to <hi>Sigiſmund</hi> the Emperor only: See
+the <hi>Turkiſh Hiſtory,</hi> pag. 1081.</p>
+            <p>Thus the Language of the Spirit, of the Holy Men of God, of all
+Nations came to be denied, and an improper, impertinent and abſurd Cuſtom
+of Speech came to be entertained, and is ſpread as a foul Leproſie, and is
+pleaded for, yea by ſuch as would be accoun<g ref="char:EOLhyphen"/>ted ſharers in Reformation.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CAP. II. Of LOGICK.</head>
+            <p>
+               <hi>LOgick</hi> is defined to be the Manner or Art of Reaſoning
+and Diſputing well, of which I have to ſay, as follows.</p>
+            <p>The <hi>Ante-diluvian</hi> and <hi>Poſt-diluvian</hi> Patriarchs,
+that is, the Fa<g ref="char:EOLhyphen"/>thers that lived before and after the Flood, Prophets, Seers,
+Evan<g ref="char:EOLhyphen"/>geliſts, Apoſtles, Biſhops, Elders, Deacons; yea, all the Holy Men
+of God, Children of Light, Children of the Day, formed in the Womb of Eternal
+Wiſdom, were Qualified and Impowered from above, to defend and maintain the
+Cauſe, Concern and Wor<g ref="char:EOLhyphen"/>ſhip of the Lord, in their reſpective
+Diſpenſations, with having recourſe to Pagan Means, Fallen Arts, Earthly
+Wiſdom, Infectious Sophiſtry; as many Inſtances left upon Record clearly
+demon<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>The Lord ſaid unto <hi>Moſes,</hi> when he ſent him with a
+Maſſage to <pb n="10" facs="tcp:47507:6"/>
+               <hi>Pharaoh, Go therefore, I will be with thy
+Mouth, and teach thee what thou ſhalt ſay,</hi> Exod. 4. Here he was drawn
+from the Puddle of Prophane Arts and Sciences, Worldly Wiſdom, Deceitful
+Sophi<g ref="char:EOLhyphen"/>ſtry, to have Reliance and Dependance on the living God, the
+Well-Spring of pure Wiſdom, ſavoury Knowledg and ſound Un<g ref="char:EOLhyphen"/>derſtanding;
+and he ſtreamed out heavenly Eloquence, ſaying, <hi>My Doctrine ſhall
+drop as the Rain, my Speech ſhall diſtill as the Dew, as the ſmall Rain
+upon the tender Herb, and as the Showers upon the Graſs,</hi> Deut. 32.
+<hi>Moſes</hi> in the Wiſdom from above, contended for the Concern of God,
+his Will, his Worſhip, maintained the ſame againſt <hi>Pharaoh,</hi>
+Magicians, Wiſe Men, Inchanters, Apoſtates, without recourſe to Pagan
+Means, Arts or Sciences.</p>
+            <p>Again, Chriſt, who is <hi>Alpha</hi> and <hi>Omega,</hi> the
+<hi>Amen,</hi> made a Pro<g ref="char:EOLhyphen"/>miſe unto his Diſciples, ſaying, <hi>I will
+give you a Mouth and Wiſdom which all your Adverſaries ſhall not be able
+to gainſay nor reſiſt,</hi> Luk. 21.15. Thus the Diſciples derived
+heavenly Wiſdom from Chriſt, whereby they defended and maintained the
+Concern of Chriſt, his Kingdom, Doctrine, Worſhip, againſt all
+Adverſaries, Scribes, Phariſees, Hypocrites, Painted Sepulchres,
+Faithleſs Lawyers, Spoiling Phyloſophers, Painted Orators, Subtil
+Sophiſters, Pagan Logicians: Chriſt commended them not to Heathen Schools,
+not to <hi>Ariſtotle, Plato,</hi> or any other Heathen, to enable them to
+refute Hereticks, but to his own Gift, his Wiſdom, Armour of Proof, his Sword
+put into their Hands, enabling them for his Work.</p>
+            <p>Again, Certain <hi>Libertines, Cyrenians, Alexandrians, Cilicians,
+Aſians</hi> diſputed with <hi>Stephen:</hi> What was the iſſue of the
+Conteſt? 'tis there Recorded, <hi>They were not able to reſiſt the
+Wiſdom and the Spirit by which he ſpoke,</hi> Acts 6 9, 10. Thus
+<hi>Stephen</hi> obtained Vi<g ref="char:EOLhyphen"/>ctory over the Champions of the Dragon: And how?
+Not by Heathen Wiſdom, Pagan Logick, Spoiling Philoſophy, but by the Sword
+of the Spirit, Shield of Faith, Wiſdom from above; in this Armour he
+prevailed. So Pagan Logick, an Art of the Old Man is not Goſpel Armour,
+whereby <hi>Stephen</hi> refuted the Adverſaries of Truth.</p>
+            <p>
+               <hi>Paul,</hi> though eminent in Tongues, Natural Parts and
+Abilities, and knew what Key opened into the rich Cabinet of heavenly Wiſ<g ref="char:EOLhyphen"/>com
+and Treaſures; yet he excluded Natural Arts and Endowments from being that
+Key, ſaying, <hi>The Natural Man receiveth not the things <pb n="11" facs="tcp:47507:6"/>of the Spirit of God, for they are fooliſhneſs unto him; neither
+can he know them, becauſe they are Spiritually diſcerned,</hi> 1. Cor.
+2.14.</p>
+            <p>A Natural Man, though mounted to the Terret of Philoſophick
+Elevations, and to the Zenith of Scholaſtick Notions, and ſtored with the
+Quinteſſence of Serpentine Wiſdom, and profeſs himſelf to be a great
+Sophiſt, that is, Wiſe Man, yet groping in the gloomy Region and dark Night
+of Degeneration, Alienation and Eſtrange<g ref="char:EOLhyphen"/>ment from God, he cannot thereby
+open one Seal of the ſealed Book: The Seven-ſealed-Book is a thing of God,
+ſo no way to be opened and read but by the Spirit of God. <hi>Plato,</hi> a
+Heathen Phi<g ref="char:EOLhyphen"/>loſopher, through Divine Glimpſes ſaid well, <hi>Vertue is
+not acqui<g ref="char:EOLhyphen"/>red, but infuſed.</hi>
+            </p>
+            <p>This <hi>Paul,</hi> a skilful Warrior of Chriſt, deſirous that
+the Church might be ſo harneſſed, as to hold out againſt all the
+Aſſaults of the old Dragon and his Confederates, Inſtruments, mentions
+the whole Armour of God, <hi>Epheſ.</hi> 6. or all the Armour of God: What be
+they? <hi>Girdle of Truth, Breaſt plate of Righteouſneſs, Shield of
+Faith, Helmet of Salvation, Sword of the Spirit, Feet ſhod with the
+prepara<g ref="char:EOLhyphen"/>tion of the Goſpel.</hi> Here's no mention made of Subtil Logick, nor
+of Painted Rhetorick, nor of Spoiling Philoſophy, nor of Pagan Ethicks,
+Phyſicks, Metaphyſicks; he that mentioned the whole Armour of God,
+mentioned not any of theſe, which clearly de<g ref="char:EOLhyphen"/>monſtrates they are not of the
+Armour of God: Whoſe then? Of the Old Dragon the Devil: The Apoſtles
+harneſſed with the Ar<g ref="char:EOLhyphen"/>mour of God, reduced many to the ſaving Truth, they
+ſtopt the Mouths of Gain-ſayers, they bore faithful Teſtimony to, and
+con<g ref="char:EOLhyphen"/>tended for the Living, Life-giving, Soul-quickning Truth, againſt ſuch
+as was harneſſed with the Old Dragons Armour, the Wiſe, the Scribe, the
+Diſputer of this World, Subtil Logicians, Crafty Sophiſters, Painted
+Orators, Spoiling Philoſophers, Drunk with the Dregs of Pagan Ethicks,
+Phyſicks, Metaphyſicks, Heatheniſm.</p>
+            <p>By what is ſaid, 'tis evident that in the <hi>Patrirachal, M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſaical</hi> and <hi>Evangelical</hi>
+Diſpenſations; yea, in all Churches Profeſſing Chriſtianity, while
+the Primitive Faith, Doctrine and Worſhip was ſincerely maintained, the
+reſpective Membess thereof were qualifi<g ref="char:EOLhyphen"/>ed and impowered from above to defend
+the ſame; and ſuch lively and truly influenced Confeſſors of the holy
+Truth, are true and divine Logicians, influenced from above, to Reaſon,
+Diſpute for <pb n="12" facs="tcp:47507:7"/>and Defend the Faith delivered to the Saints,
+and all this we own. And as in this Generation the Lord influences his for the
+perfor<g ref="char:EOLhyphen"/>mance of that Work and Service unto the which they are called: So the
+inſinuating Serpent, the old Dragon, hath his Agents and Inſtruments in
+every Generation to carry on his Work, and they are bred and formed in the Womb
+of Earthly Wiſdom; this is ſeen not only among the Profeſſors of
+<hi>Chriſtianity,</hi> but alſo among the old <hi>Heathen,</hi> who had
+their Logick, which they defined to be the Art of Reaſoning and Diſputing
+well: And this Art was brought in and invented by one <hi>Zono Eleates</hi> a
+Heathen, who lived in or about the Year of the World 34 24. as <hi>Pol.
+Virgil</hi> ſaith, Lib. 1. Cap. 16. After aroſe <hi>Ariſtotle,</hi> a
+Heathen Philoſopher, a Logician, whom many Apoſtatized Chriſtians have,
+and do call, the Prince or Chief of Philoſophers, the Great Rule of
+Univerſities, the ſore-runner of Chriſt in Naturals, as <hi>John</hi> was
+in Spirituals: But neither this <hi>Ariſtotle,</hi> nor any of the company of
+Pagan Philoſo<g ref="char:EOLhyphen"/>phers, Logicians, were entertained in <hi>Chriſtendom,</hi>
+while a pure Virgin to Chriſt, the Spring of Heavenly Wiſdom and Heavenly
+Treaſures they found in them.</p>
+            <p>But upon the ſounding of the fifth Angel, the fall of the Star
+from Heaven to Earth, the opening of the bottomleſs Pit, a Smoke aroſe,
+which Darkened both Sun and Air, Disfigured the Face, Stained the Beauty of the
+Primitive Church; then in and through this Smoke, Chriſt, the Well-ſpring
+of pure Wiſdom, and Soul-enriching Treaſures, being loſt within,
+Apoſtatizing Chriſtians entertained and received Heathen Wiſdom without,
+and received into their Schools the Philoſophy, Logick, Ethicks, Phyſicks,
+Metaphyſicks, Poetry, Comedies and Tragedies of the Heathen; they aſſumed
+the frivolous clouding Tearms of ſubtil Pagan Logi<g ref="char:EOLhyphen"/>cians, then diſputing
+for Dead, Empty and Life-leſs Forms of Worſhip became an Art of the Old
+Man, the true Armour being loſt within, they entertained Pagan Armour
+without, received and gloried in Pagan Terms, yet taught in the Schools of
+ſuch as would be accounted eminently Reformed, not only from
+<hi>Paganiſm,</hi> but from the Superſtition and Idolatry of <hi>Italian
+Babylon.</hi>
+            </p>
+            <p>Thus the infectious Cloud of <hi>Heatheniſm</hi> is continued,
+<hi>Pagan</hi> Terms gloried in, as Predicable, Predicate, Predicament,
+Category, Categorick Propoſition, Hypotherick Propoſition, Syllogiſm,
+Ca<g ref="char:EOLhyphen"/>tegorick <pb n="13" facs="tcp:47507:7"/>Syllogiſm, Hypotherick Syllogiſm, Rhetorical
+Syllogiſm, Expoſitory Syllogiſm, Rhetorical Induction, Logical Induction,
+Enthymem, a Rhetorical Enthymem, a Logical Enthymem, Di<g ref="char:EOLhyphen"/>lemma, <hi>&amp;c.</hi>
+and multitudes more which might be numberd. The Papiſt <hi>Caſtanaeus</hi>
+complains, That not only Youth, but he himſelf was grievouſly vexed with
+the multitudes of Terms and Diſtincti<g ref="char:EOLhyphen"/>ons, of which he gathered Thouſands:
+What Logick Choppers intend by theſe I judge it no way uſeful to explain;
+herein they ſoar in the Foggy and Infections Element of ſuch like Pagan
+Terms, above the Apprehenſion and Comprehenſion of Vulgar Capacities,
+gaining Repute and Admiration in the Breaſts of ſuch as are in<g ref="char:EOLhyphen"/>fected with
+Antichriſtian Deluſions.</p>
+            <p>Again, not only frivolus are the Terms of <hi>Ariſtotle</hi> and
+other Philoſophers, and Pagan Logicians, but their Opinions are Ab<g ref="char:EOLhyphen"/>ſurd and
+Blaſphemous, as of their Magicks, Southſayings, Conju<g ref="char:EOLhyphen"/>rings, caſting of
+Nativities; their Doctrine of the Worlds Eter<g ref="char:EOLhyphen"/>nity, that it was made of the
+Atoms of the Sun; of the Souls Mortality, of the Tranſmigration of the Soul
+from one Body in<g ref="char:EOLhyphen"/>to another, of like Temperament and Quality: <hi>Diagoras</hi>
+denyed that there was a God; <hi>Protagoras</hi> doubted whether there was a
+God or no; <hi>Ariſtotle</hi> denyed the Providence of God; <hi>Plato</hi>
+held out a Purgatory; <hi>Porphyrius,</hi> an Enemy to Chriſtian Religion,
+held out the Worſhipping of Angels; <hi>Ariſtotle</hi> taught Free-Will;
+<hi>Epicurus</hi> held that the Soul was Mortal; <hi>Ariſtippus</hi> held
+that Plea<g ref="char:EOLhyphen"/>ſure was the chiefeſt Good. <hi>Rainold.</hi>
+            </p>
+            <p>Notwithſtanding, through the over ſpreading of Apoſtacy,
+Hea<g ref="char:EOLhyphen"/>theniſm, as Philoſophy, Logick, Poetry, <hi>&amp;c.</hi> got entrance
+into <hi>Chriſtendom;</hi> yet in the very Night of Apoſtacy the Lord had
+his Witneſſes who bore record againſt the ſame.</p>
+            <p>
+               <hi>Gregory, Nazianzen, Euſebius, Ambroſe, Auguſtin, Origen,
+Lac<g ref="char:EOLhyphen"/>tantius, Gregory</hi> of <hi>Nyſe,</hi> bore Record againſt the
+Judgment of <hi>Ariſtotle,</hi> as Sordid, Baſe, Impure, Fooliſh,
+contrary to Truth and Godlineſs: <hi>
+                  <g ref="char:V">Ʋ</g>pon the Conſideration of which</hi>
+(ſaith Dr <hi>Rainold</hi>) <hi>let no Man wonder, if I chuſe rather to
+confeſs the Truth with ſuch wor<g ref="char:EOLhyphen"/>thy Men, then with</hi> Ariſtotle <hi>to
+commit Error.</hi> Orat. Rain.</p>
+            <p> 
+               <q rend="inline">'At or about the City <hi>Hierapolis</hi> (ſaith
+this <hi>Rainold</hi>) there is a Cave, whoſe Vapours no living Creatures,
+but Eunuchs only, can endure: Such like (ſaith he) is the Stile of
+<hi>Ariſtotle,</hi> unſavoucy <pb n="14" facs="tcp:47507:8"/>to all that are alive unto
+God, only Eunuchs, that is, ſuch as are deprived of true Judgment, and are
+enſlaved to <hi>Ariſtotle,</hi> can en<g ref="char:EOLhyphen"/>dure the ſame.'</q>
+            </p>
+            <p>
+               <hi>Cleanthes</hi> being asked, Why among the Antients, when there
+were but few Philoſophers, more became eminent then now? 
+<q rend="inline">'Becauſe (ſaith he) then they minded Matter;
+that is, a virtuous courſe of Living.'</q> Now the Conteſt is only after
+windy Words. <hi>Stob. Serm.</hi> 80. <hi>Noviſſ. Pol.</hi>
+            </p>
+            <p>
+               <hi>Ariſton</hi> compared the Words of Logicians to Spiders Webs,
+be<g ref="char:EOLhyphen"/>ing indeed very Subtil, Witty, but Unprofitable. <hi>Stob. Serm.</hi> 80.
+<hi>Noviſſ. Pol.</hi>
+            </p>
+            <p>
+               <hi>Licinus</hi> the Emperor called Heathen Learning the Plague and
+Povſon of the Common-wealth. <hi>Trapp.</hi>
+            </p>
+            <p>
+               <hi>Luther</hi> ſpeaking of Popiſh Schools and Monaſtries,
+wherein <hi>Heatheniſm</hi> was taught, ſaid, 
+<q rend="inline">'This is my mind and deſire, that theſe Stables
+of Two-Footed Aſſes, and Schools of the Devil, were levelled with the
+ground, or changed into Chriſtian Schools, by a Godly Transformation.'
+<hi>Luth. de Inſtit. Puer.</hi>
+               </q>
+            </p>
+            <p>Logick is ſo far from leading to the Knowledge of Univerſals,
+that it rather thurſts Men down into Errors. <hi>John Bapt. Van Helm.</hi>
+his Phyſick Refined.</p>
+            <p> 
+               <q rend="inline">'The World (ſaith this <hi>Helmont</hi>) hath
+ſuffered it ſelf to be cir<g ref="char:EOLhyphen"/>comvented by <hi>Ariſtotle,</hi> who boaſted
+of Logick to be the Mother of Sciences.'</q>
+            </p>
+            <p> 
+               <q rend="inline">
+                  <hi>Ariſtotle</hi> (ſaith this <hi>Helmont</hi>)
+extolled the Method of Diſputing invented by himſelf, and he takes away all
+Knowledge from a man unleſs he hath yielded himſelf to be inſtructed in
+Logick.'</q>
+            </p>
+            <p>
+               <hi>Jerem</hi> (on <hi>Pſal.</hi> 140 and 141.) doth not
+unworthily compare the Art of Syllogizing to the Plagues of <hi>Egypt,</hi> and
+he calls Logical Demonſtrations Dog like Diſcourſes.</p>
+            <p> 
+               <q rend="inline">'Schools (ſaith this <hi>Helmont</hi>)
+ſuppoſing Logick as Neceſſary, do oppoſe themſelves to the Commands
+of the Apoſtle.'</q>
+            </p>
+            <p> 
+               <q rend="inline">'I wonder (ſaith <hi>Helmont</hi>) at the great
+Blindneſs of Schools, in ſo greatly magnifying Logick.'</q>
+            </p>
+            <p> 
+               <q rend="inline">'Schools of Logick (ſaith this <hi>Helmont</hi>)
+muſt needs confeſs, that through Boaſting, Deceit and Ignorance, it hath
+deceived the Credulous World.'</q>
+            </p>
+            <p>To ſay, that Logical Diſcourſe is very neceſſary for
+Goſpel Mi<g ref="char:EOLhyphen"/>niſters, <pb n="15" facs="tcp:47507:8"/>to refute the Subtilties of
+Schiſmaticks and Hereticks; that thing (ſaith this <hi>Helmont</hi>) would
+be to be wiſe above what is written, above the Apoſties, and to commend the
+Abuſes of Schools above the Holy Scriptures; this were to Diſ-throne
+Goſpel Wea<g ref="char:EOLhyphen"/>pons, and to Inthrone Paganiſm: 'Twas not by Pagan Logick that
+<hi>Stephen</hi> refuted the <hi>Libertines, Cyrenians, Alexandrians, Aſians,
+Cilicians,</hi> but by Weapons from Heaven, <hi>Acts</hi> 6.9, 10. 'Tis not
+Pagan Logick that Chriſt promiſed his Diſciples, whereby they ſhould be
+Conquerors, <hi>Luke</hi> 21.15.</p>
+            <p> 
+               <q rend="inline">'Doth he not ſeem to walk in Vanity and Darkneſs
+of Mind, who vexes himſelf Night and Day in the Study of Logick (ſaith one)
+and charges his Memory with the diſtinct knowledge of Verſes.'</q>
+            </p>
+            <p> 
+               <q rend="inline">'Logick is nothing but the Art of Contention and
+Darkneſs, whereby all other Sciences are made more obſcure, and more hard
+to be known.' <hi>Cornel. Agrip. de vanitat. Sient.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">'Almoſt all the Rabble of Schollars buſied in
+the Inventions of Philoſophers or Sophiſters, ſeem to do no more then
+learn to com<g ref="char:EOLhyphen"/>mit Error, and to make the Truth more obſcure.' <hi>Corn. Agr.
+de Va<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Tindal,</hi> a Martyr, ſaid, <hi>Whoſoever ordained
+<g ref="char:V">Ʋ</g>niverſities drunk with Heatheniſm, be it</hi> Alexander <hi>of</hi>
+Hales, Thomas Aquinas, <hi>or any other, he was a Starfallen from Heaven to
+Earth: For there are brought in</hi> (ſaith he) <hi>Moral Virtnes for Faith,
+Opinions for Truth;</hi> and ſaid, <hi>They were a confuſed Cloud.
+Tindal</hi> of the Revelation of <hi>Ant.</hi>
+            </p>
+            <p>
+               <hi>Ariſtotle</hi> wrote many things abſurdly concerning God, as
+
+<q rend="inline">'That He is a Living Creature; that he works not
+freely, but by a kind of Servile neceſſity; and that therefore he
+deſerves no Praiſe, ſith he doth but what he muſt do.' <hi>Trapp.</hi>
+on <hi>Rom.</hi> 1.21.</q>
+            </p>
+            <p> 
+               <q rend="inline">'As for <hi>Ariſtotles</hi> Divinity, which he
+calls his Metaphyſicks, it is (ſaith <hi>Ramus</hi>) the moſt Fooliſh
+and Impious piece of Sophiſtry that ever was written.' <hi>Trapp.</hi> of
+Arts.</q>
+            </p>
+            <p>From the Philoſophy of <hi>Plato</hi> and <hi>Ariſtotle</hi>
+Peſtilent Errors firſt of all Invaded, and have long Poſſeſſed, and
+at this day do Waſte the Chriſtian Church. <hi>Orat. Rainold.</hi>
+            </p>
+            <p>Where <hi>Ariſtotle</hi> Reigns, there Ungodlineſs hath great
+Dominion <hi>Orat. Rainold.</hi>
+            </p>
+            <p>How foul a thing is it, that that may be ſpoken againſt you,
+which <hi>Ambroſe</hi> ſpoke of the <hi>Arians,</hi> 
+               <q rend="inline">'They have deſerted the <hi>Apoſtle,</hi> and
+follow <hi>Ariſtotle.</hi>' <hi>Orat. Rainold.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:47507:9"/>Some in our days have been ſeen to repeat
+<hi>Ariſtotle</hi> upon their Knees at <hi>Oxford,</hi> before their
+Maſters, being at Dinner: The muddy Lake of Heatheniſm, opened in
+<hi>Rome</hi> Ethnick, ſteamed in<g ref="char:EOLhyphen"/>to apoſtatized <hi>Rome</hi> Chriſtian,
+is received in Proteſtant Kingdoms, among whom <hi>Rome</hi> hath too much
+Room.</p>
+            <p>Many in their day bore Teſtimony againſt Pagan Philoſophy,
+Philoſophers and Logicians; among many, one <hi>Ramus,</hi> born in
+<hi>France,</hi> Maſter of Arts, was much aſperſed by the
+<hi>Sorborne</hi> Do<g ref="char:EOLhyphen"/>ctors, who accuſed him of Hereſie in Philoſophy, as
+an Heretical Philoſopher, for that he being but Young, durſt take upon him
+to correct <hi>Ariſtotle,</hi> the Prince of Philoſophers, the great Rule
+of Univerſities. This <hi>Ramus</hi> publiſhed a Logick (received in the
+moſt Reformed Univerſities, and <hi>Ariſtotle</hi> rejected) with ſome
+Animadvertions upon <hi>Ariſtotle:</hi> He was the Kings Profeſſor of
+Logick in <hi>Paris,</hi> Dean of the whole Univerſity, where he remain<g ref="char:EOLhyphen"/>ed
+till the Maſſacree at <hi>Paris,</hi> where many Thouſands of the
+<hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> periſhed by the <hi>Papiſts,</hi> who (becauſe of
+<hi>Ramus</hi> his Love to <hi>Proteſtants,</hi> and Teſtimony againſt
+<hi>Ariſtotle</hi>) ran him thorow, and being half Dead, threw him out of his
+Window, cut off his Head, dragged his Body about the Streets, in the Channels,
+and ſome young Schollrs were encouraged, by their Tutors, to whip it in a
+moſt contemptuous manner, and at laſt caſt it into the River
+<hi>Sein,</hi> in the Year 1572. <hi>Clar. Mart. Fox Mon.</hi>
+            </p>
+            <p>By what is ſaid, 'tis manifeſt that the Wiſdom which is from
+a<g ref="char:EOLhyphen"/>bove, with its out-goings and products, we own, and deſire the en<g ref="char:EOLhyphen"/>creaſe
+thereof, to the ſeaſoning and rectifying of the Nations: But the Wiſdom
+from below, with its Propagators, not able to open one of the ſeven Seals we
+deny; <hi>Ariſtotle</hi> forſook his Maſter <hi>Plato,</hi> that he might
+defend his own Error; and ſhall we not re<g ref="char:EOLhyphen"/>fuſe prophane
+<hi>Ariſtotle,</hi> to defend the Truth of the Living God? ſaith
+<hi>Rainold.</hi> Yes, Chriſt is to have Pre-eminence in all things, the
+Treaſury of Wiſdom and Knowledge.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="17" facs="tcp:47507:9"/>
+            <head>CAP III. Of RHETORICK.</head>
+            <p>
+               <hi>RHetorick</hi> is defined to be the Art of Speaking Ornately,
+Firely, Eloquently, with <hi>Rhetorical</hi> Colours and Ornaments.</p>
+            <p>
+               <hi>Adam,</hi> as he was the Workmanſhip of God, he Lived, Moved,
+and had his Beeing in God, his Thoughts, Words and Works, Pro<g ref="char:EOLhyphen"/>ducts of that
+Life, into the which he was Incorporated, Savour'd of that Life, had a Divine
+Luſtre in them, Stamp and Excellency, and were Fragrant and Aromatical in the
+Noſtrils, and Precious in the Eyes of the All-forming Power: But the Serpent
+that deceived Man, and incorporated him into another Power, therein to Think,
+Speak and Act, brought forth an other Language, out of the ſimpli<g ref="char:EOLhyphen"/>city of
+Truth, ſavouring of the Womb of its Original; though Plauſible, Painted,
+Eloquent, Garniſhed with Colours and Orna<g ref="char:EOLhyphen"/>ments of Pagan Rhetorick, yet 'tis
+Abomination to the Lord, Stinks in his Noſtrils, and in the Noſtrils of
+ſuch as are truly Re<g ref="char:EOLhyphen"/>born, as Chriſt bore Record: Thoſe things that are
+highly Eſteem<g ref="char:EOLhyphen"/>ed with Men are Abomination unto the Lord.</p>
+            <p>This is my Teſtimony, that that Language which the Lord ſpeaks
+in and through his People, Sons and Daughters, is the on<g ref="char:EOLhyphen"/>ly and heavenly
+Eloquence and Rhetorick, if I may ſo call it; though Plain, Simple, and be
+accounted Rude, Clowniſh and Babbling by the VVorldly VViſe.</p>
+            <p>
+               <hi>Moſes</hi> brought to that Mouth that taught <hi>Adam</hi> and
+<hi>Eve</hi> in their Primative State, ſtreamed out heavenly Eloquence,
+ſaying, <hi>My Doctrine ſhall drop as the Rain, my Speech ſhall diſtil
+as the Dew, as the ſmall Rain upon the tender Herb, and as the Showers upon
+the Graſs,</hi> Deut. 32.2. Yea, and <hi>David</hi> ſtreamed out ſaying,
+<hi>My Heart is inditing a good Matter; I ſpeak of the things which I have
+made touching the King; My Tongue is the Pen of a ready Writer,</hi> Pſal.
+45.1. And the Lord promiſed, ſaying, <hi>I will turn to the People a pure
+Language, that they may call upon the Lord, and ſerve him with one
+Conſent,</hi> Zeph. 3.9. This pure Language, where<g ref="char:EOLhyphen"/>ever 'tis witneſſed,
+is the true Eloquence. And Chriſt ſaith to <pb n="18" facs="tcp:47507:10"/>the Church,
+come and coming out of the Wilderneſs, leaning up<g ref="char:EOLhyphen"/>on her Beloved, <hi>Oh my
+Dove! that art in the Clefts of the Rock, in the ſcorer places of the Stairs,
+les me ſee thy Countenance, let me hear thy Voice; for Sweet is thy Voice,
+and thy Countenance is Comely,</hi> Cant. 2.14. Mark, the Voice of the Church
+is Sweet, though not Painted with enticing Words of Mans Wiſdom, nor
+Garniſhed with Pagan Rhetorical Flouriſhes; 'tis Sweet to Chriſt, though
+judged Rude and Babbling by Worldly Sophiſters; her Voice, her Prayers, her
+Praiſes, ariſing from Divine Indwellings, a live Cole from the heavenly
+Alter, as Fragrant Perfumes is Sweet to his Noſtrils. God reſpects not the
+Arithmetick of our Prayes, how many they be; nor the Rhetorick of our Prayers,
+how neat they be; nor the Geometry of our Prayers, how long they be; nor the
+Logick of our Prayers, how methodical they be; nor the Mu<g ref="char:EOLhyphen"/>ſick of our
+Prayers, how melodious they be; but his Eye and Re<g ref="char:EOLhyphen"/>gard is to the Divinity of
+Prayers, how Heart-ſprung they be, ſaith <hi>Trapp.</hi> on 2 <hi>Cor.</hi>
+12.8.</p>
+            <p>Further, though there was a Divine Excellency in <hi>Paul's</hi>
+Speech, ſeaſoned with Salt, Heavenly Wiſdom, yet he ſaith plainly to
+the <hi>Corninthians, That he came not with Excellency of Speech, nor with
+En<g ref="char:EOLhyphen"/>ticing Words of Mans Wiſdom:</hi> He came not with Frothy Flouriſhes of
+Pagan Rhetorick or Oratory, nor with Enchanting Words of fallen Wiſdom, which
+the fallen Mind aſcribes Excellency unto, but falſly; but his Preaching was
+in Demonſtration of the Spirit and Power, 1 <hi>Cor.</hi> 2.1, 4. There was a
+Divine Excellency in his Speech, though called <hi>Babbling</hi> by Worldly
+Sophiſters, as 'tis to this day, <hi>Acts</hi> 17.17, 18.</p>
+            <p>Thus 'tis clear to every ſeeing Eye, what Wiſdom, and what
+Speech was juſtified and contended for among the Children of Light in every
+Age and Generation, and in the Church ſucceeding the Apoſtles, while a
+Virgin to Chriſt; but as the black Vail and foul Leproſie of Apoſtacy
+over-ſpread and disfigured the Face of the Chriſtian Church, then heavenly
+Salt, true Savour, heavenly Wiſ<g ref="char:EOLhyphen"/>dom being loſt within, then they
+Entertained and Magnified Hea<g ref="char:EOLhyphen"/>then Wiſdom without; then Pagan Rhetorick came
+to be embra<g ref="char:EOLhyphen"/>ced and taught to Chriſtian Youth, defined to be the Art of
+Speak<g ref="char:EOLhyphen"/>ing Finely and Eloquently; which Heathen Rhetorick, a <hi>Pagan,</hi> one
+<hi>Mercury</hi> is ſaid to invent or bring in, him the <hi>Heathen</hi>
+called <pb n="19" facs="tcp:47507:10"/>the <hi>Meſſenger of the Godds,</hi> and
+<hi>Godd of Eloquence, Merchandize, Chivalry</hi> and <hi>Thievery;</hi> but
+<hi>Ariſtotle</hi> ſaith, that one <hi>Empedocles</hi> was the Inventor of
+this Rhetorick, <hi>Pol. Virg.</hi> lib. 1. cap. 13. who as 'tis ſaid,
+ſtole away from his Company by Night, and caſt himſelf into the Mouth of
+the Burning Mountain <hi>Aetna,</hi> that ſo the People not finding him,
+might conceive he was taken up into Heaven, ſo might honour him; but his two
+Pattens caſt up again by the Vehe<g ref="char:EOLhyphen"/>mency of the Flame, betrayed his Policy and
+itch after Honour: Thus they that magnifie Earthly Wiſdom, Pagan Rhetorick,
+may ſee what manner of Man the Author thereof was.</p>
+            <p>Yet though theſe things be Magnified in Pagan and Chriſtian
+Kingdoms, the Lord hath had his Witneſſes in the darkeſt of Days,
+againſt Serpentine Wiſdom, Rhetorical Flouriſhes, the Wiſdom of this
+World, which is Fooliſhneſs with God: I might produce a Cloud of
+Inſtances.</p>
+            <p> 
+               <q rend="inline">'Wiſdom of the Fleſh, Rhetorical Flouriſhes
+ſerves the World<g ref="char:EOLhyphen"/>ling, as the <hi>Oſtrich</hi> Wings, to make him out-run
+others upon Earth, and in Earthly Things, but helps him never a whit towards
+Heaven,' <hi>Trapp.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">'Men have neglected Sound, Savoury and Uſeful
+Matter, the very Quinteſſence of Lerning, and have devoted themſelves to
+an Exceſs of fine Speaking,' Biſhop <hi>Wilkins</hi> his <hi>Real
+Caracter.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">'The grand impoſture of Phraſing hath eaten out
+all ſollid Learning,' <hi>B. Wilkings.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">'Phraſes (ſaith this Author) are an Imperfection
+of Speech, which like other affected Ornaments, derogate from the native
+Simpicity of it, diſguiſing it with falſe Appearances; and that ſuch
+canting Forms have eaten out ſollid Knowledge, through mens admiring
+them.'</q>
+            </p>
+            <p> 
+               <q rend="inline">'Eloquence (ſaith <hi>Anguſtin</hi>) in a Lewd
+Man, is as Poyſon in a Golden Cup,' lib. 1. <hi>De Anima.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">'The uſe of Rhetorick (ſaith <hi>Suetonius</hi>)
+was ſome time forbid<g ref="char:EOLhyphen"/>den at <hi>Rome,</hi> but by little and little, it
+appearing Profitable and Honeſt, many for Maintenance and Honours ſake
+purſued it, and through it many aſpired to the Terret of Worldly Honours,'
+<hi>Pol. Virg.</hi> lib. 1. cap. 13.</q>
+            </p>
+            <p>
+               <hi>Julius Agricola,</hi> a Roman Emperors Lieutenant, in
+<hi>Brittain,</hi> prevailed with Noble Men to breed up their Sons in
+<hi>Liberal Arte,</hi> 
+               <pb n="20" facs="tcp:47507:11"/>brought them to effect the Roman
+Eloquence; then they begun to imiate the Roman Faſhions, the Gown, Proud
+Buildings, Baths and Banquetings, which the Fooliſher ſort called Civility;
+but was in<g ref="char:EOLhyphen"/>deed a ſecret Art to prepare them for Bondage, <hi>Milton.</hi>
+And theſe things are too much countenanced among the Profeſſors of
+Chriſti<g ref="char:EOLhyphen"/>anity; the Simplicity of Truth, and the Language thereof is
+ſlight<g ref="char:EOLhyphen"/>ed; Mans Wiſdom, Heathen Wiſdom magnified; a purſuit of Roman
+Eloquence, through the Imitation of their Orators, Rheto<g ref="char:EOLhyphen"/>ricians, Poets,
+<hi>&amp;c.</hi> is encouraged; and this is not without Pride and Vain Glory.
+The Apoſtle, wiſe in the Wiſdom from above, touched this, <hi>Knowledge
+puffs up, but Charity edifies, builds up.</hi>
+            </p>
+            <p>The Equity of a Poor Mans Cauſe is often ſtifled by that grim
+Monſter fleſhly Wiſdom, frothy Flouriſhes of Pagan Eloquence. 
+<q rend="inline">'A Poor Man (ſaith <hi>Trap.</hi>) complained to
+his King, That ſuch a Lawyer had taken his Cow from him: <hi>I will hear</hi>
+(ſaid the King) <hi>what the Lawyer will ſay to the Matter.</hi> Nay
+(ſaith the Poor Man) if you hear him ſpeak, then have I ſurely loſt my
+Cow indeed.'</q>
+            </p>
+            <p>
+               <hi>Secrates</hi> in his <hi>Apology;</hi> ſaid to his Judges, 
+<q rend="inline">'My Lords, I know not how you have been affected
+with mine Accuſers Eloquence, while you heard them ſpeak; for my own part,
+I aſſure you, that I, whom it toucheth moſt, was almoſt drawn to
+believe all they ſaid (though againſt my ſelf) was true, when they
+ſcarce uttered one word of Truth,' <hi>Trap.</hi>
+               </q> Such are the
+Inchantments of painted Oratory, Pagan Rhetorical Flouriſhes.</p>
+            <p>Croſs-Bearers, who in Self-denial grow up in the Wiſdom that is
+from above, ſo become VViſdom's Children, juſtifie VViſdom; if theſe
+Stumble, Fall, Err, Sin, they have not ſo learned Chriſt, as to Paint or
+Cloke the ſame; but knowing that he, he who con<g ref="char:EOLhyphen"/>reſſeth and forſaketh
+finds Mercy, they rejoyce in Judgment, being brought forth into Victory. But
+ſubtil Sophiſters, Erring, Sinning, ſo Trim, Deck, Dreſs, Garniſh,
+Cloke and Paint their Sins and Er<g ref="char:EOLhyphen"/>rors, as that they paſs with moſt for
+Truth; only VViſdom's Chil<g ref="char:EOLhyphen"/>dren, honoured with an heavenly Eye and Savour,
+diſcern and com<g ref="char:EOLhyphen"/>prehend the ſame: There is an <hi>Arabick</hi> Proverb,
+<hi>Errans eruditus errat errore erudito,</hi> that is, Learned Men have
+learned Errors.</p>
+            <p>By what is ſaid, it appears, that the VViſdom from above, its
+Products, Divine Eloquence we own, and deſire the Nation may be ſcaſoned
+thereby: But the VViſdom from below, introduced by <pb n="21" facs="tcp:47507:11"/>the
+Serpent, Pagan Rhetorick, Eloquence, Enticing VVords of Mans Wiſdom, we deny,
+knowing the ſame to be Fooliſhneſs with God, and altogether unable of
+opening any one of the Seals of the ſeven Sealed Book.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CAP. IV. Of M<g ref="char:V">Ʋ</g>SICK.</head>
+            <p>
+               <hi>ADam,</hi> as the VVorkmanſhip of God, Lived, Moved and had
+his Beeing in God; he was bound up in that Life, whence Praiſes, Songs of
+Thanks-giving, as ſweet and fragrant Odours aſcends unto the Lord; whoever
+draws VVater out of the VVell<g ref="char:EOLhyphen"/>ſpring of Salvation, 'tis not without Joy and
+Heart Melody unto the Lord; this the New Man knows, not the Old.
+<hi>Moſes,</hi> the Children of <hi>Iſrael, Miriam, Deborah</hi> and
+<hi>Barack, David, Mary, Zacharias,</hi> holy Men and holy VVomen of God,
+overcome with the Sence, Feeling and Sweetneſs of the Lords Preſence, and
+ſee<g ref="char:EOLhyphen"/>ing Deliverance brought and wrought by his Arm, Songs of Praiſe and
+Thanks-giving ſtreamed out from them; and Praiſe is come<g ref="char:EOLhyphen"/>ly in the Mouth of
+ſuch; and ſuch Singing, and ſuch Songs we own.</p>
+            <p>But the Serpent prevailing, Man became Incorporated into his
+Venomous and Infecting Power, the Foundation of a World of Wickedneſs was
+laid, a falſe Joy was brought forth; and this is the very Sourſe or Spring
+of all Wanton Poems, Laſcivious Come<g ref="char:EOLhyphen"/>dies, Deluding Tragedies, Frivilous
+Fables, Fooliſh Balads, Ob<g ref="char:EOLhyphen"/>ſcene Songs, invented by the Adulterated Mind,
+uſed and pleaded for by the like Mind; yea, among ſuch as profeſs
+<hi>Chriſtianity;</hi> but Real Chriſtians are in Chriſt, and ſuch as
+are in Chriſt are New Creatures, Old things are done away; and ſuch
+Singers, and ſuch Songs are in the fallen Spirit, Joy of this World, the
+which we deny.</p>
+            <p>In the increaſe of this dark Kingdom came in <hi>Muſick,</hi>
+called one of the ſeven Liberal Arts, defined to be the Art of Singing well,
+the Study of Poetry, of Heathen Poetry; of this <hi>Muſick,</hi> Vocal or
+Inſtrumental, or both, one <hi>Amphion,</hi> a Heathen, the Son of
+<hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> 
+               <pb n="22" facs="tcp:47507:12"/>is ſaid to be the Inventor,
+<hi>Plin.</hi> lib. 7. Others aſcribe the In<g ref="char:EOLhyphen"/>vention thereof to one
+<hi>Dionyſius</hi> or <hi>Menoury, Pol.</hi> lib. 1. cap. 14. But
+<hi>Jubal,</hi> the Son of <hi>Lamach,</hi> who lived many Generations before
+theſe, is reported by <hi>Joſephus,</hi> in his firſt Book of
+<hi>Antiquities,</hi> to be affected with Muſick, and to uſe the Pſaltery
+and Harp. <hi>Pol.</hi> lib. 1. cap. 14.</p>
+            <p>
+               <hi>David,</hi> the ſweet Pſalmiſt of <hi>Iſrael,</hi> in
+the Service of the Houſe God, appointed Singers of the <hi>Levites,</hi>
+inſtructed in the Songs of the Lord, appertaining to the Temple Worſhip, 1
+<hi>Chron.</hi> 6. and 1 <hi>Chron.</hi> 25. Theſe Singers be arrayed in
+white Linnen, they Praiſ<g ref="char:EOLhyphen"/>ed and gave Thanks unto the Lord, whoſe Mercy
+endures forever. Theſe Singers arrayed in VVhite, ſhadowed out the lively
+Mem<g ref="char:EOLhyphen"/>bers of the Evangelical Diſpenſation: A Remnant of the Church in
+<hi>Sardis</hi> were to walk in VVhite, <hi>Rev.</hi> 3.4. Again, <hi>John</hi>
+ſaw a numberleſs Multitude of all Nations, Kindreds, People and Tongues
+clothed in white Robes, <hi>Rev.</hi> 7. And <hi>John</hi> ſaw the Armies in
+Hea<g ref="char:EOLhyphen"/>ven clothed in fine Linnen, <hi>Rev,</hi> 19. VVhat is this fine white
+Lin<g ref="char:EOLhyphen"/>nen? VVhat are theſe white Robes? Not <hi>Aarons</hi> white Robes, no
+imitation thereof, not the white Linnen of the Singers of the Temple, not
+Surplices, ſuch as are now uſed by the Conforming Miniſtry and
+Queriſters in Cathedrals: VVhat then? <hi>John</hi> tells us expreſly,
+<hi>That the fine white Linnen was the Righteouſneſs of Saints,</hi> Rev.
+19.8. And who, or what but Chriſt is the Saints Righteouſ<g ref="char:EOLhyphen"/>neſs? So
+Chriſt the Righteouſneſs of Saints, is that very thing which the white
+Linnen of <hi>Aaron,</hi> and of the <hi>Levitical</hi> Singers, ſhadowed
+forth. So to plead for the Shadow, or for an Imitation thereof, the Subſtance
+being come, 'tis Antichriſtian. And <hi>Paul</hi> ſaid to the
+<hi>Epheſians,</hi> to the Saints and Faithful Brethren, who were come to the
+Righteouſneſs of Saints, to the end of Shadows; <hi>Be not Drunk with Wine,
+wherein is Exceſs, but be filled with the Spirit, ſpeaking to your
+ſelves</hi> (not in VVanton Balads, Obſcene Songs, but) <hi>in Pſalms,
+Hymes and ſpiritual Songs, Singing and making Me<g ref="char:EOLhyphen"/>lody in your Hearts to the
+Lord,</hi> Epheſ. 5.18, 19. and Col. 3.16. Such Singers we own, their
+Pſalms, Hymes and ſpiritual Songs we own; they ſtream out of the Mouth of
+the New Man, not of the Old. <hi>John</hi> tells us of a New Song, which none
+could learn but the Hundred Forty and Four Thouſand which were Redeemed from
+the Earth, <hi>Rev.</hi> 14. And <hi>Paul</hi> ſaid to the Sanctified at
+<hi>Corinth, <pb n="23" facs="tcp:47507:12"/>When ye come together, every one of you hath a
+Pſalm, hath a Doctrine, hath a Tongue, hath a Revelation, hath an
+Interpretation; let all things be done to Edifying,</hi> 1 Cor. 14. So a
+Pſalm was a Gift particular to the New Man, who ſings with the Spirit, and
+with Underſtanding. The Primitive Church, while a Virgin to Chriſt, ſung
+with the Spirit, with Underſtanding; had to Clark no give them in other Mens
+Experiences; but <hi>Chriſtendom</hi> being become a Sea, the Spi<g ref="char:EOLhyphen"/>rit loſt,
+turned from, in which true Joy and Singing is; then ſtept in Formal Singing
+without, without the Spirit, without Under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>The Wanton, who ſpends his precious Hours in Jollity, he ſings,
+<hi>I am weary with my Groaning, I water my Couch with my Tears.</hi>
+            </p>
+            <p>The proud Atheiſt, who hath baniſhed the Lord out of hie
+thoughts, he ſings, <hi>I have ſet the Lord always before me.</hi>
+            </p>
+            <p>The vain Minded, who delights in the Company and Society of vain
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, he ſings, <hi>I have hated
+the Congregation of Evil-Doers, and will not ſit with the Wicked.</hi>
+            </p>
+            <p>He that is as a withered Tree, Plucked up by the Roots, Fruitleſs,
+he ſings, <hi>I am like a Green Olive Tree in the Houſe of God,</hi>
+            </p>
+            <p>He whoſe Heart is as a Cage of Uncleanneſs, he ſings, <hi>My
+Heart is enditing a good matter.</hi>
+            </p>
+            <p>The daily Feaſter, ſuch as the Reſidentarians, whoſe Legs
+can ſcarce bear about his Groſs Corpulent Body, he ſings, <hi>My Knees
+are Weak through Faſting, and my Fleſh faileth of Fatneſs.</hi>
+            </p>
+            <p>Satans Captive, who wallows in the Mire and Puddle of Sin and
+Iniquity, he ſings, <hi>O Lord, truly I am thy Servant.</hi>
+            </p>
+            <p>The Son of <hi>Belial,</hi> who by Perſecution would wear out the
+Flock of the Lord from off the Earth, he ſings, <hi>I am a Campanion of all
+them that fear thee.</hi>
+            </p>
+            <p>The Lawleſs man, whoſe Life is a Life of Rebellion, ſubject
+(as I may ſay) to the grand Charter of Sin and Death, he ſings, <hi>The Law
+of thy Mouth is better unto me than Thouſands of Gold and Silver.</hi>
+            </p>
+            <p>He that Adder-wiſe ſtops his Ears from the Heavenly Doctrine of
+the Lords anointed Ones, he ſings, <hi>How ſweet are thy Words to my
+Taſte, yea ſweeter than the Honey to my Mouth.</hi>
+            </p>
+            <p>The Ambitious Man, puft up with the Breath of Satans Bel<g ref="char:EOLhyphen"/>lows, he
+ſings, <hi>Lord, my Heart is not Haughty, my Soul is even as a Weaned
+Child.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:47507:13"/>Do theſe and ſuch like ſing with the
+Spirit? Do they ſing with Underſtanding? No. Now who are of God, they are
+diſtingui<g ref="char:EOLhyphen"/>ſhing Perſons, and with us they contend for ſinging in the
+Spirit, and with Underſtanding; this Song none but the Redeemed can learn;
+this Song of the Lord cannot be ſung in a ſtrange Land, Captivity,
+Spiritual <hi>Babylon;</hi> and ſuch as are of God, they deny all dead formal
+Singing and Singers, who formally ſing other Mens Conditions, out of the
+Spirit, without Underſtanding.</p>
+            <p>That the Primitive Chriſtian Church, while a Virgin to Chriſt,
+ſung <hi>David</hi>'s Experiences or Teſtimonies in Meetre, that I deny;
+but through the Engreſs of the Apoſtacy, Singing in the Spirit being
+loſt, then a formal Singing in Meetre entred in, whereof I have read,
+That</p>
+            <p>In or about the Year 383. Pſalms began to be ſung, being brought
+in by <hi>Damaſus</hi> Biſhop or Pope of <hi>Rome,</hi> though not turned
+into Meetre [Mark this]</p>
+            <p>In or about the Year 1552. in the ſixth Year of <hi>Edward</hi>
+the ſixth, the Pſalms of <hi>David</hi> firſt began to be compoſed in
+Engliſh Meetre by one <hi>Thomas Sternhold,</hi> one of the Grooms of the
+Pivy-Chamber, who Tranſlating but a few, left both Example and Encouragement
+to <hi>John Hopkins</hi> and others to diſpatch the reſt; a Device firſt
+ta<g ref="char:EOLhyphen"/>ken up in <hi>France,</hi> by one <hi>Clement Merot,</hi> one of the Grooms
+of the Bed-Chamber to King <hi>Francis</hi> the firſt: At firſt they were
+ſung in private Houſes, after were taken into the Church of the
+<hi>French:</hi> And of other Nations, they were firſt allowed for private
+Devoti<g ref="char:EOLhyphen"/>on, after, by little and little, crept into the uſe of the Church,
+after<g ref="char:EOLhyphen"/>wards Printed and Bound up with the Common-Prayer-Book, at laſt added
+by Stationers in the end of the Bible; ſee Dr <hi>Heylin</hi>'s
+<hi>Ec<g ref="char:EOLhyphen"/>cleſia. Reſtaurata.</hi> pag. 191. But though by this Author called
+a De<g ref="char:EOLhyphen"/>vice, yet now 'tis called a Vice, yea a Symptom of a Heterodox Judgment to
+deny or queſtion the Obſervation of the ſame.</p>
+            <p>
+               <hi>Benedictus,</hi> an Abbot of the Moneſtary of <hi>Peter</hi>
+and <hi>Paul</hi> at <hi>Wire,</hi> brought with him from <hi>Rome</hi> one
+<hi>John</hi> the Arch-Chanter, who firſt taught in <hi>England</hi> how to
+ſing in the Quire, after the manner of <hi>Rome,</hi> in the Year 724.
+<hi>Fox Acts</hi> and <hi>Mon.</hi>
+            </p>
+            <p>The <hi>Levites,</hi> that were Singers, were divided into twenty
+four Ranks or Courſes: Hence the Apoſtatized Church brought in
+Queriſters, ſo introduce the <hi>Levites</hi> for a proof for their Office;
+<pb n="25" facs="tcp:47507:13"/>but the truly Redeemed Church receives not
+<hi>Jewdaiſm</hi> for <hi>Chriſti<g ref="char:EOLhyphen"/>anity,</hi> neither their Practice for
+Chriſts Inſtitution and Appoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>'Tis a Cuſtom of many Countries and Nations, ſaith
+<hi>Macrobius,</hi> to accompany Dead Bodies to their Burials with Singing: And
+why? Becauſe their Souls are believed to return to the Original of Muſical
+Sweetneſs or Pleaſure, that is, to Heaven. lib. 2. <hi>De Somne Scrip.
+Noviſſ Pol.</hi>
+            </p>
+            <p>Eccleſiaſtical Hiſtories mention many Teſtimonies which have
+dropped from the Mouthes of Men, Eminent in their Day againſt dead formal
+Singing, uſed in Churches profeſſing <hi>Chriſtianity.</hi>
+            </p>
+            <p>
+               <hi>Caſſiodor,</hi> a Learned Man of <hi>Ravenna,</hi> about the
+Year 510. ſaith That the Fathers made no great account of Singing in
+Churches; and that moſt of them knew nothing thereof; for in the days of
+<hi>Athanaſius</hi> Biſhop of <hi>Alexandria,</hi> about the Year 348.
+<hi>Flavian</hi> and <hi>Theodor,</hi> firſt of all in the <hi>Eaſt,</hi>
+brought in the Rite or Cuſtom of Singing at <hi>Antioch. Hiſtor.
+Tripart.</hi> lib. 5. &amp; <hi>Nov. Pol.</hi>
+            </p>
+            <p>
+               <hi>Auguſtin</hi> ſaith, That it was received into the Church of
+<hi>Millain,</hi> when <hi>Ambroſe</hi> was Biſhop thereof, about the Year
+373. <hi>Nov. Pol.</hi>
+            </p>
+            <p>
+               <hi>Anaſtatius</hi> ſhuning all Vanities, forbad the Cuſtom of
+Singing in the Church. <hi>Nov. Pol.</hi>
+            </p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CAP. V. Of the <hi>Riſe</hi> of <hi>Muſical
+Inſtruments</hi> in the Churches Profeſſing
+<hi>Chriſtianity.</hi>
+            </head>
+            <p>THe Houſe of <hi>Iſrael,</hi> the outward <hi>Jew,</hi>
+Praiſed the Lord on divers kinds of Inſtruments, as Harps, Pſalteries,
+Timbrels, Cornets, Cimbals, Trumpets, Organs, Inſtruments of ten Strings, 1
+<hi>Chron.</hi> 15. 1 <hi>Chron.</hi> 25. And theſe, ſaith <hi>Thomas
+Aquinas,</hi> the great School-man, figured forth ſomething to come: And what
+was that? Even <hi>Jeſus Chriſt,</hi> ſay I, the End, Sum, Subſtance of
+all the <hi>Jewiſt</hi> Types, Shadows and Figures; the Spiritual
+<hi>Iſraelite,</hi> the Inward <hi>Jew,</hi> the <hi>Goſpel Church,</hi>
+made up of Living Stones, in and through Chriſt, ſtreamed out a Melody unto
+the Lord, ſweeter then all viſible Muſical Inſtruments,
+<hi>Epheſ.</hi> 5.18, 19. <hi>Col.</hi> 3.16. The <pb n="26" facs="tcp:47507:14"/>Evangelical Church come to Chriſt, whoſe Meat and Drink it was to
+do his Fathers Will, in whom alone he was well pleaſed, a bun<g ref="char:EOLhyphen"/>dle of Myrthe,
+ſhe was come to the end of the <hi>Jewiſh</hi> Worſhip, of all its
+Appurtenances, Muſical Inſtruments uſed in the outward Jewiſh Church,
+<hi>John</hi> ſaw as it were a Sea of Glaſs, mingled with Fire, <hi>and
+them that had gotten the Victory over the Beaſt, and over his Image, and over
+his Mark, and over the Number of his Name, ſtand on the Sea of Glaſs,
+having the Harps of God,</hi> Rev. 15.2. What are theſe Harps? Not Jewiſh
+Harps, not Viſible Harps, not made with Hands, but Harps of God, ſuch as he
+gives to the <hi>Jew inward,</hi> peculiar to the Evangelical Diſpenſation,
+the End and Subſtance of the outward Jewiſh Harps.</p>
+            <p>And while the Primitive Church remained a Virgin in Chriſt, knit
+and joyned to him, through the pure Ligament of Heaven-bred Faith, making
+Melody in Heart to the Lord, there was no uſe of the Typical Jewiſh
+Muſical Inſtruments in the Chriſtian Church; but the Star being fallen
+from Heaven, to Earth, Smoke ariſen, which darkned Sun and Air, which
+ſtained the Beauty of the Primitive Church, the Sum, Subſtance, the
+Heavenly Harp, (as I may ſay) being loſt within, in and through the Smoke
+of the Pit, then they turned to Muſical Inſtruments without, as Organs,
+Dulcimers, Cornets, Sackbuts, uſed in Cathedral Churches, ſo called, as in
+others: And this is the ground of Muſical Inſtruments (the Type) in the
+Churches profeſſing Chriſtianity, even that which led them from Chriſt,
+the Life, the Subſtance.</p>
+            <p>I might produce a Cloud of Witneſſes againſt the uſing of
+Muſick in Churches profeſſing <hi>Chriſtianity.</hi>
+            </p>
+            <p>Inſtruments of Muſick were not heard of in the Latin Church till
+the days of Pope <hi>Vitalian,</hi> who about the Year 660. invented and
+brought the Uſe of Organs into the Church, of whom <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ap Mant.</hi>
+            </p>
+            <q> 
+               <l>Signius adjunxit molli conflata Metallo</l> 
+               <l>Organa, quae feſtis reſonant ad ſacra diebus.</l>
+            </q>
+            <q> 
+               <l>
+                  <hi>Vitalian</hi> the Organ he invented,</l> 
+               <l>The which for uſe in Churches he intented.</l>
+            </q>
+            <p>Here is the Author of Organs in Churches Profeſſing
+<hi>Chriſtianity,</hi> not Chriſt, not the Apoſtles; but the Pope
+<hi>Vitalian, Balani Angliae Epiſcopus,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oſpin Leigh</hi>'s <hi>Body of
+Divinity.</hi>
+            </p>
+            <p>
+               <pb n="27" facs="tcp:47507:14"/>
+               <hi>Ames, Aquinus, Rivet, Zanchaeus, Zepperus,
+Altingius</hi> diſlike the uſe of Organs, and ſuch like Muſick in the
+Church. <hi>Leigh's Body of Divinity.</hi>
+            </p>
+            <p>
+               <hi>Rivet</hi> ſpeaking of the Organ ſaith, 
+<q rend="inline">'It is much better to abſtain therefrom, then to
+introduce or continue the ſame, becauſe there is more Danger therein than
+Edification.'</q>
+            </p>
+            <p> 
+               <q rend="inline"> 'The uſe of Muſical Inſtruments (ſaith Dr
+<hi>Taylor</hi>) are apt to turn Religion into Air and Fancies,'</q> and to
+take off ſome of its Simplicity, and are not ſo fitted for Edification.</p>
+            <p> 
+               <q rend="inline">'The Apoſtles (ſaith <hi>Hoſpinian.</hi>) had
+not the uſe of Organs, or of other Muſical Inſtruments in their
+Churches.'</q>
+            </p>
+            <p> 
+               <q rend="inline">'Organ-Muſick (ſaith one) ſeems rather to
+become Children, than the Church.' <hi>Hoſp.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Marianus Scotus</hi> ſaith in his <hi>Chronicle,</hi> 
+               <q rend="inline">'That about the Year 757. the Organ firſt came
+into <hi>France,</hi> being ſent out of <hi>Greece</hi> from
+<hi>Conſtantine</hi> the Emperor, unto King <hi>Pipin.</hi>'
+<hi>Hoſp.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Lactantius</hi> ſharply blames the <hi>Gentiles</hi> for
+placing the Worſhip of God in thoſe things which the Fooliſhneſs of Men
+highly eſteem, lib. 2. <hi>Inſtitut. Hoſp.</hi>
+            </p>
+            <p>
+               <hi>Eraſmus</hi> ſpeakes Learnedly and Gravely againſt the
+uſe of Or<g ref="char:EOLhyphen"/>gans in Churches, ſaying, 
+<q rend="inline">'People flock thereto, as to a Theater or Stage,
+that their Ears may be Tickled or Delighted. What (ſaith he) at this day is
+more Burdenſom than our Muſick, imita<g ref="char:EOLhyphen"/>ting the Notes of many Birds? It were
+therefore better that theſe Organs ſhould be taken away.' <hi>In Annot.
+ad</hi> 1 <hi>Cor. cap.</hi> 14. <hi>Hoſp.</hi>
+               </q>
+            </p>
+            <p>At the Princely Banquets of the <hi>Heathen</hi> they ſung the
+Praiſes of their <hi>Godds</hi> and <hi>Heros</hi> upon the Harp; <hi>Pol.
+lib.</hi> 1. <hi>cap.</hi> 14. From this Cuſtom and Example, 'tis grown
+Cuſtomany; yea, among ſuch as profeſs the honourable Name of Chriſt, to
+have Muſick at Feaſts, Banquets, Dinners, notwithſtanding the Prohibition
+of the Prophet, <hi>Learn not the way of the Heathen,</hi> and of the
+Apoſtle, <hi>Be not conformed to this World.</hi>
+            </p>
+            <p>After the Apoſtles days, through the Prevailing and Encroach<g ref="char:EOLhyphen"/>ment
+of Apoſtatical Deluſion, Singing in Spirit, the Ingrafted Word, the Harp of
+God being loſt, they not only entertained Formal Singing, and Jewiſh
+Muſical Inſtruments into the Church, but alſo the Heathen Liberal Art
+Muſick, Vocal, Inſtrumental, into Schools, a part whereof is Heathen
+Poetry, which to the <pb n="28" facs="tcp:47507:15"/>Depraving, Spoyling and Corrupting of
+Chriſtian Youth, is yet continued and contended for; and this we deny, and
+bear our Teſtimony, That Heatheniſm, as Laſcivious Poets, Comedies,
+Tragedies, Frivolous Fables, Spoyling Phyloſophy, are as the Dead Sea, in
+which none can Live unto God; and in the very Mid-night of Apoſtacy, the Lord
+hath had his Witneſſes againſt the teaching thereof in Chriſtian
+Schools; others have not been ſilent.</p>
+            <p>A certain <hi>Lacedemonian</hi> being asked, What he thought of the
+Poet <hi>Tyrreus?</hi> He anſwered, <hi>He was apt to Deprave, Corrupt the
+Minds of Young Men.</hi> Plutarch.</p>
+            <p>Some put Amethyſt in their Cups againſt Drunkenneſs; much more
+in the hearing of Poets, a right Rule is to be minded, leſt they infect the
+Mind. <hi>Plut. Plin.</hi>
+            </p>
+            <p>
+               <hi>Euſebius</hi> brings in <hi>Plate,</hi> ſharply blaming the
+firſt Education of Youth, as Deſtructive, which was uſed by the
+<hi>Greeks,</hi> in reading the feigned Comical and Tragical Inventions of
+Poets, Cap. 49. Page 618.</p>
+            <p>The <hi>Heathen Romans</hi> having Conquer'd this Nation, and
+Inhabi<g ref="char:EOLhyphen"/>ting in it, erected Schools to teach the <hi>Britiſh</hi> Youth, and
+brought in their Laſcivious Books, Poets, Comedies, Tragedies; which to the
+Corrupting of Youth are yet continued.</p>
+            <p>
+               <hi>Edgar,</hi> a <hi>Saxon</hi> King, having ſome ſenſe of
+the Abomination of the Time, put forth a Canon, <hi>That on Feſtival Days
+every one ſhould abſtain from Prophane Heathen Songs, and from Diabolical
+Games and Paſtimes:</hi> But now 'tis not heeded.</p>
+            <p>In the days of Queen <hi>Elizabeth,</hi> the Lords of her Privy
+Council ſent Letters to her high Commiſſioners in Cauſes
+Eccleſiaſtical, in order to the rectifying of School-abuſes, ſaying,
+<hi>The Youth of the Realm receive rather Infections in Manners, than
+Advancement in Vir<g ref="char:EOLhyphen"/>tue, from the Heathen Poets taught in Schools.</hi> They
+were concern<g ref="char:EOLhyphen"/>ed for the removing of Laſcivious Poets, taught in Schools;
+but—<hi>Inimicae tenacias haerent;</hi> ſee the Preface of the Book
+called, <hi>Anglorum praelia.</hi>
+            </p>
+            <p>
+               <hi>Auguſtin,</hi> in his Confeſſions, accounts
+<hi>Terence</hi> a Comical Poet, unworthy to be read; and blames
+<hi>Grammarians</hi> who teach it. <hi>Orat. Rainold.</hi>
+            </p>
+            <p>Primitive Chriſtians found Sophiſters and Philoſophers to be
+the <pb n="29" facs="tcp:47507:15"/>principal Enemies of <hi>Chriſtianity:</hi> Upon this
+account they con<g ref="char:EOLhyphen"/>demned all Heathen Learning, Comedies, Tragedies, and other
+Poetical Writings, judging they did not conduce to ſollid Learning,
+<hi>Herrald. Anim. in Arnob.</hi>
+            </p>
+            <p>
+               <hi>Berno,</hi> who lived about the Year 1008. being furniſhed
+with all ſorts of Learning, ſaid <hi>That he for many Years had rejected
+Poetical Fictions, Heathen Hiſtorians, Worldly Learning, as Dung.</hi> In
+Epiſt<g ref="char:EOLhyphen"/>ad Magnifr.</p>
+            <p>
+               <hi>Socrates</hi> drove out of the City Lewd Demons and Atchievers
+of Naughtineſs, handled by Poets; and he taught Men to ſhun <hi>Homer,</hi>
+and other Poets, and exhorted them after the ſearch of the Living God.
+<hi>Juſt. pro. Chriſtianis Apol. prima.</hi>
+            </p>
+            <p>
+               <hi>Auguſtin</hi> called Heathen Poetry; <hi>The Wine of Error,
+Drunk of Drunken Doctors. Jerom</hi> called it, <hi>The Meat of
+Divils.</hi>
+            </p>
+            <p> 
+               <q rend="inline">'The Devil takes pleaſure in filthy and
+diſhoneſt Muſick, and uſes the ſame as his Vehicle or Chariot,
+whereby he enters the Minds of Men, who delight in Diabolical Muſick.'
+<hi>Alſted.</hi>
+               </q>
+            </p>
+            <p> 
+               <q rend="inline">''Tis a profitable Work to draw Chriſtian Youth
+from the read<g ref="char:EOLhyphen"/>ing of wanton Poems to ſound Hiſtory.' <hi>Alex Roſs</hi>
+in his <hi>Preface</hi> to <hi>Verg. Evangel.</hi>
+               </q>
+            </p>
+            <p>The <hi>Lacedemonians</hi> made no account of Poets, but drove them
+out of the City, becauſe of their Wantonneſs. <hi>Pult. in Lacon.
+Noviſſ. Pol.</hi>
+            </p>
+            <p>
+               <hi>Jerom</hi> complained, that Prieſts, neglecting the Prophets,
+did read Comedies, and ſung the armorous Sayings of the <hi>Bucolicks. In
+Epiſt. de dueb. fil.</hi>
+            </p>
+            <p>Obſcene Poets are to be neglected, for they corrupt good Man<g ref="char:EOLhyphen"/>ners,
+and fraught the Mind with Naughtineſs. <hi>Fran. Petrar. de regne.</hi> Lib.
+2.</p>
+            <p>The <hi>Lacedemonians</hi> would neither hear the Comedies nor
+Trage<g ref="char:EOLhyphen"/>dies of Poets, becauſe contrary to all Laws; they hold out Whore<g ref="char:EOLhyphen"/>doms,
+Inceſt, Adulteries, Injuries, Thefts, and other Flagitious Crimes. So it
+appears that Pagan Poetry, and Ingredient of the Liberal Art <hi>Muſick,</hi>
+hath been teſtified againſt.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="30" facs="tcp:47507:16"/>
+            <head>CAP. VI. Of ARITHMETICK.</head>
+            <p>
+               <hi>ARithmetick,</hi> one of the ſeven Liberal Arts, is defined to
+be the Numeral Science, the Art of Numbring; the knowledge whereof is uſeful
+in Civil-Acts, in the Government of Common-Wealths, for the due Proviſion and
+Order of Armies, Viewing of Artillery, uſeful for Merchants, Auditors,
+Treaſurers, Receivers, Stewards, Bailiffs, <hi>&amp;c.</hi> 'Tis ſaid to
+have its Riſe among the Mer<g ref="char:EOLhyphen"/>chandizing <hi>Phenicians;</hi> but
+<hi>Joſephus,</hi> in the firſt Book of his <hi>Anti<g ref="char:EOLhyphen"/>quities,</hi>
+aſcribes the Original of it to the <hi>Jews. Pol. Vir. de Invent. rerum,</hi>
+lib. 1. cap. 18.</p>
+            <p>
+               <hi>Plato,</hi> a Learned Heathen Philoſopher,
+(<hi>Ariſtotles</hi> Maſter) ſo accounted of this Art, as that he wrote
+this Sentence over his School Door, <hi>Nemo Arithmeticae ignarus hic
+ingrediatur;</hi> that is, Let none enter here who is ignorant of
+<hi>Arithmetick.</hi>
+            </p>
+            <p>'Tis my Judgment, that none can groundly deny, but the knowledge
+hereof is uſeful, as to the Concerns of this Life, uſeful in its place; but
+ſuch who aſcribe the opening of the ſeven Seals to this or any Natural
+Art or Arts whatever, the Book is ſealed to ſuch, not one Seal thereof
+opened; the Lyon of the Tribe of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> whoſe Prerogative it is to
+open the Seals, he is denyed, and Nature and Natural Arts are lifted into his
+Throne.</p>
+            <p>Herein any Member of <hi>Italian Babilon</hi> with his
+<hi>Maſs-Book, Maſs</hi> for the Dead, Fabulous <hi>Legend;</hi> any
+<hi>Mahumetan</hi> with his dreggy <hi>Alcoran;</hi> any Flint hearted
+<hi>Jew</hi> with his <hi>Talmud,</hi> a mingle-mangle of Jewiſh Divine and
+Humane Matters; any Dead, Dry, Unfruit<g ref="char:EOLhyphen"/>ful <hi>Formaliſt,</hi> may grow
+Profound, Exquifit, Nimble, yea, and though involved in the intricate windings
+of Degeneration, out of the Royal ſtate of Regeneration and Heavenly
+Transformation may apprehend the Feates, Termes and Parts of this Natural Art,
+as Digits, Articles mixt Numbers, Cyphers, Terniries, Golden Rule direct,
+Golden Rule reverſe, a Cube, <hi>Phythagoras</hi>'s Table, Algoriſm,
+<hi>&amp;c.</hi> yet be Strangers to the Divine Exerciſe which leads to
+Chriſt, the Lion of the Tribe of <hi>Judah,</hi> who alone opens the Seals of
+the Book.</p>
+            <p>
+               <pb n="31" facs="tcp:47507:16"/>Though there be an Uſe and Service in this
+Natural Art, yet the Children of Light, the Children of the Day, are, as I may
+ſay, the wiſe <hi>Arithmeticians,</hi> who being the Diſciples of the
+Lord, are kept Alive unto the Lord, and are daily in the Numbring of his
+Mercies, Living Mercies, Mercies Heavenly, Mercies Earthly: 'Twas the breathing
+of <hi>David,</hi> the ſweet <hi>Pſalmiſt</hi> of <hi>Iſrael, That the
+Lord would teach him to Number his Days, that he might apply his Mind un<g ref="char:EOLhyphen"/>to
+Wiſdom.</hi>
+            </p>
+            <p>Again, the Eagle-Eyed Apoſtle <hi>John,</hi> propoſed (as I may
+ſay) an Example to wiſe Arithmeticians, ſaying, <hi>Here is Wiſdom; let
+him that hath <g ref="char:V">Ʋ</g>nderſtanding count the Number of the Beaſt, for it is the
+Number of a Man, and his Number is Six Hundred Sixty Six,</hi> Rev 13.18. And
+<hi>John</hi> ſaw ſuch as had got Victory over the Beaſt, and over the
+Number of his Name, <hi>Rev.</hi> 15.2.</p>
+            <p>Herein, together with other places is evidently intimated. 
+<list>
+                  <item>1. That a Beaſt, a Beaſtial Man ſhall ariſe in the
+Churches pro<g ref="char:EOLhyphen"/>feſſing <hi>Chriſtianity.</hi>
+                  </item>
+                  <item>2. That this Beaſt, or Beaſtial Man, ſhould have a
+Numeral Name, that is ſuch a Name as ſhould contain a certain Number in
+it.</item>
+                  <item>3. That the Number contained in the Beaſts Name, ſhould
+be, being computed, Six Hundred Sixty and Six.</item>
+               </list> 
+            </p>
+            <p>Hence this Concluſion neceſſarily ariſes, that he is the
+Beaſt, or great Antichriſt, that hath that Numeral Name, which contains in
+it the Number of ſix Hundred Sixty ſix.</p>
+            <p>Now what remains, but that he be faithfully and impartially ſought
+out who bears this Name, and that we be informed what this Name is?
+<hi>Ireneus</hi> (whoſe Maſter <hi>Polycarpus</hi> had been St
+<hi>John</hi>'s Diſciple) informs us, 
+<q rend="inline">'That the Name <hi>Latinus</hi> contains the Num<g ref="char:EOLhyphen"/>ber
+of ſix Hundred Sixty ſix; ſo was believed to be the Name of the Beaſt:
+For (ſaith he) they are <hi>Latines</hi> who now have Domi<g ref="char:EOLhyphen"/>nion;'</q> but we
+will not boaſt thereof (ſaith he) Implying that the Name of the Beaſt
+ſhould be the greateſt Inſamy of the Church of <hi>Rome;</hi> as if he
+ſhould have ſaid, In this we have no ground for Glorying, but rather for
+being aſhamed. <hi>Iren.</hi> againſt <hi>Hereſies.</hi>
+            </p>
+            <p>Again, the Numeral Letters of the Name <hi>Roman</hi> in
+<hi>Hebrew,</hi> ac<g ref="char:EOLhyphen"/>cording to the Computation of the <hi>Jews,</hi> makes up
+this Number of ſix Hundred Sixty ſix. So whether we have recourſe to the
+Word <hi>Latin</hi> in <hi>Greek,</hi> or <hi>Roman</hi> in <hi>Hebrew,</hi>
+the Numeral Letters make <pb n="32" facs="tcp:47507:17"/>up ſix Hundred Sixty ſix,
+whereby we are led as by the Hand to the Monarch of <hi>Rome,</hi> who hath
+long poſſeſſed the Kingdom of the <hi>Latines,</hi> and <hi>Rome</hi>
+the Seat of the <hi>Latin</hi> Kingdom; his Church is called the <hi>Latin
+Church,</hi> his Letanies, Maſſes, Prayers, Exorciſms, Indulgences; in a
+word, his whole Service is in <hi>Latin,</hi> ſet up in the Year 666. by Pope
+<hi>Vitalian. Latin</hi> containing the Number of the Name of the Beaſt,
+being alſo his Language; yea, and 'tis judged unlawful to perform the ſame
+in any other Language: 'Twas the definitive Sentence of the Council of
+<hi>Trent, If any ſhall ſay, that the Maſs ought to be Celebrated in the
+Vulgar Tongue, let him be Accurſed.</hi> So doubtleſs <hi>Lattin</hi> and
+<hi>Roman</hi> is the Numeral Name of the Beaſt.</p>
+            <p>Object. <hi>No Pope was called</hi> Latin, <hi>and but one was
+called</hi> Roman: <hi>How then can the Pope be intimated thereby?</hi>
+            </p>
+            <p>
+               <hi>Anſw. John</hi> ſpeakes not ſo much of a Perſonal as of
+a National Name, for he will have the Numeral Name to be the Character, whereby
+it might be known where Antichriſt ſhould have his Riſe, and his
+principal Reign, to wit, in <hi>Italy,</hi> at <hi>Rome: Italy</hi> of Old was
+called <hi>Latinum,</hi> the Inhabitants were called <hi>Latins,</hi> from
+their firſt King <hi>Latin,</hi> as 'tis ſaid, being alſo the National
+Name; and how that Church rings with the Tearm <hi>Roman,</hi> who is ignorant?
+As Roman Faith, Roman Religion, Roman Catholick, Roman Church, and that out of
+the ſame there is no Salvation; and that <hi>Rome</hi> is the Mother, Queen,
+Lady and Miſtriſs of all Church, and that all ought to return to her
+Lap.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CAP. VII. Of GEOMETRY.</head>
+            <p>
+               <hi>GEometry</hi> is defined to be the Art or Science of meaſuring
+the Earth, <hi>&amp;c.</hi> which in Concerns among Men is Uſeful and
+Ser<g ref="char:EOLhyphen"/>viceable in its place: The Invention hereof, <hi>Strabo, Herodotus,</hi>
+and <hi>Proclus</hi> aſcribes to the <hi>Aegyptians,</hi> on this
+occaſion.</p>
+            <p>The River <hi>Nilus,</hi> now and then by its over-flowing,
+Confounded <pb n="33" facs="tcp:47507:17"/>and Diſordered their Land-marks; upon this the
+<hi>Aegyptians</hi> found out the Uſe and Benefit of <hi>Geometry,</hi> to
+the end that every one might be ſettled in the poſſeſſion of proper
+and reſpective Rights: Yet <hi>Joſephus</hi> in the firſt Book of his
+<hi>Antiquities,</hi> ſeems to aſcribe the In<g ref="char:EOLhyphen"/>vention thereof to the
+<hi>Hebrews, Pol. Virg.</hi> lib. 1. cap. 18.</p>
+            <p>A Natural Man through ſearch may apprehend much of the Feats and
+Terms of this Art, their Points, Phyſical, Optick and Mathe<g ref="char:EOLhyphen"/>matick, their
+Lines, Parralels, Diameter, Perimeter, Triangle, Rectangulous, Obliquangulous,
+Obtuſangulous, Acutangulous, Multangulous; their Rhombus, Rhomboides, Cone,
+Cylinder, Pa<g ref="char:EOLhyphen"/>rallelogram, Quadrat, Quadrant, Diagram, Aſtrolabe,
+<hi>&amp;c.</hi> Yet that hereby, or by any other natural Acquiſition or
+Attainment, he can find out the knowledge of the Almighty, or open the Seals of
+the Book, that I deny: For the things of the Spirit of God are Spiritually
+Diſcerned; and ſuch as live in the Spirit, they come to be honoured with
+that Divine Underſtanding, as to ſet every thing in its proper place.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>CAP. VIII. Aſtronomy, Aſtrology.</head>
+            <p>THe Living God (ſaith the Paraphraſt on the <hi>Samaritan
+Penta<g ref="char:EOLhyphen"/>tench</hi>) formed <hi>Adam</hi> and filled him with the Spirit of
+Wiſ<g ref="char:EOLhyphen"/>dom and Knowledge, that from him, as from Fountain uſeful Knowledge and
+Arts might flow unto his Proſterity: For beſides the ſecret Virtues of
+Living Creatures, of Plants, of Stones, of Metals and Minerals, he perfectly
+knew the Influences of Superna<g ref="char:EOLhyphen"/>tural Bodies. <hi>Theoph. Gale.</hi>
+            </p>
+            <p>That <hi>Adam,</hi> as he was the Workmanſhip of God, was wiſe
+in the Book of the Creation, 'tis an undoubted Truth: So many of the Holy Men
+of God, as <hi>Moſes, David, Solomon, Job, Daniel,</hi> &amp;c. who grew up
+in that Image, in which <hi>Adam</hi> was Created, they grew up in the Wiſdom
+of God, became wiſe in the Book of Life, and in the Book of the Creation; yet
+I read not that they were called <hi>Aſtrologers,</hi> or were ſtained with
+their Fooleries, Do<g ref="char:EOLhyphen"/>tages, Imaginations, Uncertainties, Conjectures; but were
+Wit<g ref="char:EOLhyphen"/>neſſes <pb n="34" facs="tcp:47507:18"/>in their reſpective Generations againſt
+ſuch, and that Spirit by the which they were acted; what they ſaw of the
+Book of the Creation, 'twas in and through the Wiſdom of God revealed in
+them; and that we own.</p>
+            <p>The Sons of <hi>Seth,</hi> who was the Son of the firſt Man
+<hi>Adam,</hi> as <hi>Joſephus</hi> ſaith in the firſt Book of his
+<hi>Antiquities,</hi> underſtood the Doctrine of Heavenly Things, who (to the
+end that what they knew and apprehended might not be loſt, nor ſwallowed up
+in the Sea of Oblivion; foraſmuch as <hi>Adam</hi> had foretold a future
+De<g ref="char:EOLhyphen"/>ſtruction of all things) made two Pillars, the one of Brick, the other of
+Stone, that if the Brick Pillar ſhould be deſtroyed by the Rain Water or
+Flood, the Stone Pillar remaining might ſhew the Writing freſh and entire
+to the Nations: On theſe two Pillars, ſaith <hi>Joſephus,</hi> they
+graved thoſe things which appertained to the Obſer<g ref="char:EOLhyphen"/>vation of the Stars.
+<hi>Pol. Virg.</hi> lib. 1. cap. 17.</p>
+            <p>
+               <hi>Joſephus</hi> in his firſt Book of <hi>Antiquities,</hi>
+clearly demonſtrates, that <hi>Abraham</hi> firſt taught Aſtrology unto
+the <hi>Aegyptians,</hi> when he went down into <hi>Aegypt,</hi> and that the
+<hi>Caldeans</hi> and <hi>Greeks</hi> received the ſame from the
+<hi>Aegyptians. Pol.</hi> lib. 1. cap. 17. To this I ſay, <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>
+was perfect in his Generation, the Father of the Faithful; and the ſum of his
+Doctrine unto his Children was, <hi>That they might walk in the Way of the
+Lord, and obſerve his Statutes, and being wiſe in the Wiſdom of the
+Lord.</hi> I do not deny, but that he might take occaſion among the
+<hi>Aegyptians,</hi> to ſpeak of the Wiſdom and Power of the Lord, in
+producing the wonderful Fabrick of the Creation, of the Sun, Moon, Stars, and
+their Influence over and upon Inferior Bodies, all which beſpeak the
+unutterable Power and Wiſdom of the great Former: To which Teſtimony of
+<hi>Abraham,</hi> the <hi>Aegyptians</hi> adding the corrupt Ingredients of
+their own Inventions and Imaginations, Fooleries and Miſ apprehenſions,
+might patch up their Art of A<g ref="char:EOLhyphen"/>ſtrology; <hi>Corruptio optimi fit
+peſſima;</hi> Beſt things being Corrupted become Worſt.</p>
+            <p>
+               <hi>Job</hi> knew that his Redeemer Lived, and in the Wiſdom of
+his Redeemer he ſaw much into the Creation; he ſpoke of Thunder, of
+Vapours, of Clouds, of Rain, of Snow, of Hail, of the Sea, of Foun<g ref="char:EOLhyphen"/>tains, of
+Metals, as Gold, Silver, Iron, Braſs, of Stones, of Precious Stones, of
+Subterraneo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Fire, of Stars, of
+Living Creatures, of Earth-Quakes, of A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cturus, Orion and the Pleides, of the Sun, of the Hea<g ref="char:EOLhyphen"/>vens,
+<hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:47507:18"/>Now from the Writings of <hi>Moſes,</hi> and
+of other Holy Men of God, the <hi>Heathen</hi> deſirous of Knowledge, adding
+their Inventions and Imaginations thereto, patcht up their Ethicks, Phyſicks
+and Metaphyſicks; from the ſame Sourſe or Spring came in the Art of
+<hi>Aſtronomy</hi> and <hi>Aſtrology,</hi> which ſome will have to be one
+and the ſame; others diſtinguiſh them, calling him an
+<hi>Aſtronomer</hi> who Rea<g ref="char:EOLhyphen"/>ſons or Treats of the motion of the Stars; him
+an <hi>Aſtrologer,</hi> who from the Courſe or Conjunction of the Stars,
+take upon them to foretel what ſhall betide Men, States, Perſons, People,
+<hi>&amp;c.</hi>
+            </p>
+            <p>The Spirit of the Lord, in which the holy Men of God lived unto the
+Lord, and ſaw much into the Creation, being turned from by the
+<hi>Heathen,</hi> they became Drunk with ſtrange Conceits, Inventions,
+Whimſies, Imaginations.</p>
+            <p>Divers things were Deviſed or Invented by the <hi>Aegyptians,</hi>
+as Calculating of Nativities, that is, from the Day or Hour of ones Nativity,
+foretelling what his Fortune ſhall be, as 'tis called, what Death he ſhall
+dye, and what manner of Man he ſhall be, <hi>Pol. Virg.</hi> lib. 1. cap. 17.
+Are <hi>Aſtrologers</hi> now, though profeſſing Chriſtia<g ref="char:EOLhyphen"/>nity, and
+Redemption from Spiritual <hi>Aegypt</hi> the Houſe of Bondage, clear of
+theſe Dregs?</p>
+            <p>Do not many Ungodly and Prophane <hi>Aſtrologers,</hi> from the
+Ob<g ref="char:EOLhyphen"/>ſervation of the Heavens, Contemplation of Celeſtial Bodies, Courſe
+and Conjunction of the Stars, take upon them to foretell what Good or Evil
+ſhall betide Men, States, Perſons, People, ſo to determine things of
+future Contingence? Yes.</p>
+            <p>To which I ſay, the great Former of all things, the Almighty
+having made two great Lights; <hi>Moſes</hi> mentions their Uſe, End and
+Service, <hi>The greater Light to rule the Day, the leſſer Light to rule
+the Night,</hi> Gen. 1.16. He ſaith not, that they were made for that end,
+that Men by the Contemplation thereof ſhould Predict, Foretell, Prophecy,
+Prognoſticate, what Good or Evil ſhould betide Men, <hi>&amp;c.</hi>
+            </p>
+            <p>True it is, <hi>The Heavens declare the Glory of God,</hi> &amp;c.
+<hi>Pſal</hi> 19.1. And not only Sun, Moon and Stars, but every Product, as
+with open Mouth, Proclaims, Preaches forth the Power and Wiſdom of the great
+Former; But that men by the obſervation of them ſhould foretel what Good or
+Evil would betide Men, Seates, Perſons, People, <hi>&amp;c.</hi> this I
+cannot receive,</p>
+            <p>
+               <pb n="36" facs="tcp:47507:19"/>One reaſons thus: What ſaith the
+Aſtrologer? Why is the Star of <hi>Jupiter</hi> or <hi>Venus</hi> in
+Conjunction with <hi>Luna,</hi> at the Nativity of Children, happy, or a
+portender of Good; but the Star of <hi>Saturn</hi> or <hi>Mars</hi>
+contrary?</p>
+            <p>The Prophets of the Lord, his holy Seers, (as holy Records tell us)
+fore-ſaw things, and what ſhould befall in the World, to Men, States,
+Perſons, People; but this they did by the Indwellings of the Anointing, the
+Word of Prophecy; not by the obſervation of Celeſtial Bodies: And how
+fallible Aſtrologers in this thing are, we have annual evident and pregnant
+Demonſtration.</p>
+            <p>
+               <hi>Pharaoh</hi> having Dreamed, not any of the Magicians of
+<hi>Aegypt,</hi> not any of the Wiſe Men thereof could Interpret the ſame,
+though doubtleſs eminent in Aſtrological Judgment; but <hi>Joſeph</hi>
+Interpre<g ref="char:EOLhyphen"/>ted the ſame to him; not by the Contemplation of the Heavens, but by
+the Gift of God: <hi>Pharaoh</hi> ſaid, <hi>Can we find ſuch a one as this
+is, a Man in whom the Spirit of God is? And for aſ much as God hath ſhewed
+thee all this, there is none ſo diſcreet and Wiſe as thou art,</hi> Gen.
+41. <hi>Joſeph</hi>'s Interpretation <hi>Pharach</hi> aſcribed to the
+Lord's Work, and not to any Aſtrological Judgment of <hi>Joſeph.</hi>
+            </p>
+            <p>
+               <hi>Nebachadnezzar</hi> having Dreamed, he ſent for all the
+Inchanters, Aſtrologians, Socerers, Southſayers, Wiſe-Men of
+<hi>Babel,</hi> pro<g ref="char:EOLhyphen"/>miſing Gifts, Rewards, and great Honour, to ſuch as
+could declare to him his Dream, and the Interpretation thereof; if not, they
+ſhould all be put to Death. Notwithſtanding, Wealth Honour and Death was
+ſet before them, which ſet their Wits upon Work, yet they could not
+anſwer the King; notwithſtanding their Aſtrologi<g ref="char:EOLhyphen"/>cal Prudence: But the
+Lord that reveals Secrets, revealed that ſecret unto <hi>Daniel, Dan.</hi> 2.
+So the King was anſwered; yet not by Aſtrological Judgment of the Artiſts
+of <hi>Babel,</hi> or of <hi>Daniel,</hi> but by the Revelation of the
+Lord.</p>
+            <p>
+               <hi>Relſhazzar,</hi> King of <hi>Babylon,</hi> ſaw a
+Hand-writing upon the Wall; ſo ſent for the Aſtrologians, Caldeans,
+Southſayers, Wiſe Men of <hi>Babel,</hi> promiſing great things to him
+that could read the Writing, and interpret the ſame; but it was hid from
+them: But <hi>Daniel</hi> read the Writing, and ſhewed the Interpretation
+there<g ref="char:EOLhyphen"/>of; not by Aſtrological Judgmeat, but by the Gift of the Lord,
+<hi>Dan.</hi> 5.</p>
+            <p>The <hi>Caldeans</hi> ſaid, That the Planets conduced very much to
+the <pb n="37" facs="tcp:47507:19"/>bringing of Good or Evil to Man: Whereupon
+<hi>Hermione</hi> com<g ref="char:EOLhyphen"/>plains in <hi>Ovid;</hi> 
+               <q> 
+                  <l>Quae mea caeleſtes injuria fecit iniquos?</l> 
+                  <l>Quod<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mihi miſerae Sydus obeſſe querar?</l>
+               </q> 
+               <q> 
+                  <l>What fault of mine hath made the Heavens unkind?</l> 
+                  <l>And that a Star ſhould not be well inclin'd?</l>
+               </q>
+               <hi>Diodorus, Pol. Virg.</hi> lib. 1. cap. 17. And this conceit hath got
+en<g ref="char:EOLhyphen"/>trance among many that profeſs <hi>Chriſtianity.</hi>
+            </p>
+            <p>That the Seven Days of the Week are named after the the Seven
+Panets, 'tis thought to be the Invention of the <hi>Aegyptians. Dion.</hi>
+Hiſtor. <hi>Pol. Vir.</hi> Lib. 6. Cap. 5. And this is obſerved not only by
+Aſtrologers, but alſo by Schools and Colledges profeſſing
+<hi>Chriſti<g ref="char:EOLhyphen"/>anity:</hi> Thus the Miſt and Darkneſs of <hi>Aegypt</hi> is
+continued among the Profeſſors of <hi>Chriſtianity.</hi>
+            </p>
+            <p>In moſt Ages and Generations the Lord Hath had his Witneſſes,
+againſt the Vanity and Naughtineſs of Judicial Aſtrology.</p>
+            <p>
+               <hi>There ſhall not be found among you any one that uſeth
+Divination, or an obſerver of Times,</hi> &amp;c. Deut. 18.10.</p>
+            <p>
+               <hi>The Lord fruſtrateth the Tokens of the Lyars, and maketh
+Diviners Mad,</hi> &amp;c. Iſa. 44.25.</p>
+            <p>The Prophet bears Teſtimony againſt the <hi>Caldean</hi>
+Aſtrologers, ſaying, <hi>Thou art wearied in the Multitude of thy
+Counſels; let now the Aſtrologers, the Star-gazers, the Monethly
+Prognoſticators ſtand up,</hi> &amp;c. Iſa. 57.13, 14.</p>
+            <p> 
+               <q rend="inline">'The Art of Aſtrology (ſaith <hi>Pol.
+Virg.</hi>) was deviſed or inven<g ref="char:EOLhyphen"/>ted to make ſound Minds Rave, or go out of
+the Way,' <hi>lib.</hi> 1. <hi>cap.</hi> 17.</q>
+            </p>
+            <p>
+               <hi>Calvin,</hi> Born at <hi>Noviodune</hi> a City of
+<hi>France,</hi> a ſtout oppoſer of the Apoſtatized <hi>Roman</hi>
+Church, about the Year 1548. diſcovered in a Book the Vanity and Falſhood
+of Judicial Aſtrology, which many began then too much to heed. <hi>Clark</hi>
+in the Life of <hi>John Calvin.</hi>
+            </p>
+            <p>
+               <hi>Bion</hi> ſaid, 
+<q rend="inline">'That <hi>Aſtronomers</hi> were very ridiculous,
+who when they cannot ſee Fiſh ſwiming near them on the Shore, yet ſay,
+That they ſee Fiſh; that is, the Conſtellation <hi>Piſcis,</hi> in
+Heaven.' <hi>Stob. Serm.</hi> 78.</q>
+            </p>
+            <p> 
+               <q rend="inline">'The Proſterity of <hi>Noah</hi> (ſaith
+<hi>Theoph. Gale</hi>) degenerating from the pure Philoſophy, that is,
+Wiſdom of the Patriarchs, plunged into the bottomleſs Pit, of Diabolical
+Aſtrology and <pb n="38" facs="tcp:47507:20"/>Idolatry: For in their Contemplation of
+Celeſtial Bodies, the feeling of the Creator being loſt, they were firſt
+of all hurried to the Admiration of them, afterwards to the Adoration of
+them.'</q> So thoſe Glorious Creatures being lifted up to the Throne of the
+Creator, became the Object of monſtrus Idolatry, <hi>Rom.</hi> 1.21.
+<hi>Deut.</hi> 4.19.</p>
+            <p>
+               <hi>Epiphanius, Baſil, Chryſoſtom, Augnſtin,</hi> ancient
+Fathers, eminent in the Church in their reſpective Days, give Reaſons why
+Judicial Aſtrology is to be exploded, caſt out.</p>
+            <p>
+               <hi>Auguſtin,</hi> Biſhop of <hi>Hippo,</hi> ſadly complains
+in his Confeſſions, That he was Deluded, in making any account of that Art;
+and bit<g ref="char:EOLhyphen"/>terly Inveighes againſt it, and the Profeſſors thereof. <hi>Nov.
+Pol.</hi>
+            </p>
+            <p>Judicial Aſtrology was often forbidden by the Canons of Coun<g ref="char:EOLhyphen"/>cils.
+<hi>Conc. Tolet. prim. Nov. Pol.</hi>
+            </p>
+            <p>
+               <hi>Phavorinus</hi> was wont to check Judicial Aſtrologers by this
+witty Dilemma or Argument; 
+<q rend="inline">'They (ſaith he) do ſay, That either Unfortunate
+or Proſperous things will befall: If they ſay Proſpe<g ref="char:EOLhyphen"/>rous things, and
+deceive thee, thou ſhalt be made Miſerable by ex<g ref="char:EOLhyphen"/>pecting; If they ſay
+Unfortunate things will befall, yet Lye, thou ſhalt be made Miſerable
+through fearing: Therefore by no means (ſaith he) muſt we have to do with
+ſuch like men, who take upon them to foretel what ſhall happen.'
+<hi>Gel.</hi> lib. 4. cap. I. <hi>Nov. Pol.</hi>
+               </q>
+            </p>
+            <p>Many have been the Teſtimonies againſt this Art; yea, and that
+of many eminent in the Church in their Day, whoſe Teſtmonies herein we own:
+And as Nations come to be rectified, and ſeaſoned with Heavenly Salt, this
+and all other Arts not ſavouring of God, but tending to deprave People, and
+lead them into an uncert in Airy State will be Witneſſed againſt.</p>
+            <q> 
+               <l>Aſtrologus caveat quinquam praedicere, praecept</l> 
+               <l>Nam cadet Impoſtor dum ſuper aſtra volat.</l>
+            </q>
+            <q> 
+               <l>Aſtrologer, foretell not, ſoar not high,</l> 
+               <l>Leſt down thou fall, in mounting up the Skie.</l>
+            </q>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="39" facs="tcp:47507:20"/>
+            <head>CAP IX. To ſuch as Trade
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sea of <hi>Heatheniſm,
+Philoſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ool-Maſters,</hi> &amp;c.</head>
+            <p>A <hi>Philoſopher</hi>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ture of the Word being
+conſidered, ſigni<g ref="char:EOLhyphen"/>fies, <hi>A
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iſdom.</hi> Now there is a
+twofold Wiſdom, a Wiſdom from a
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pure, Heavenly, full of good
+Fruits; and ſuch as gr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w up in
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s Wiſdom, ſo become Wiſdom's
+Children; ſuch as grow up in the K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owledge of the Lord, and in the Book of the Creation, ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> only ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h are the true
+and divine Philoſo<g ref="char:EOLhyphen"/>phers, though the Gown, and other Philoſophical
+Ornaments, as ſome call them, be not received by them.</p>
+            <p> 
+               <q rend="inline"> 'There were (ſaith <hi>Alſted</hi>)
+<hi>Ante-diluvian Philoſophers,</hi> that is, <hi>Philoſophers before the
+Flood,</hi> as <hi>Adam, Seth, Enos, Cainan, Malaleel, Jared, Enock,
+Methuſalem, Noah,</hi> who did not only underſtand heavenly Myſteries,
+but alſo the Knowledge of Nature, the Book of the Creation, the which they
+taught in their Families, as in Schools.'</q> And</p>
+            <p> 
+               <q rend="inline">'There were (ſaith he) <hi>Poſt-diluvian
+Philoſophers,</hi> that is, <hi>Philo<g ref="char:EOLhyphen"/>ſophers after the Flood,</hi> as
+<hi>Abraham, Jacob, Moſes, David, Solomon, Daniel, &amp;c.</hi>'</q> Theſe
+he bears witneſs to, to be true and divine Philoſophers; and this we
+own.</p>
+            <p>
+               <hi>Tatianus</hi> gave pregnant Evidence, ſaying, 
+<q rend="inline">'That every Age and Order among Chriſtians, were
+Chriſtian Philoſophers; yea, that the very Virgins and Maids, as they
+ſate at their Wool work were wont to ſpeak of God's Word and Works;'
+<hi>Trapp.</hi>
+               </q> And while the Chriſtian Church remained a Virgin to
+Chriſt, no Hea<g ref="char:EOLhyphen"/>then Books, of Poets, Heathen Philoſophers, Comedians,
+Trage<g ref="char:EOLhyphen"/>dians, were entertained among them.</p>
+            <p>As there is a Wiſdom from above, the very Sourſe and
+Well<g ref="char:EOLhyphen"/>ſpring of Divine Philoſophers, Anointed Ones, Chriſtian
+Philoſo<g ref="char:EOLhyphen"/>phers, who receive from above, and the Tendancy of what they re<g ref="char:EOLhyphen"/>ceive
+is to honour him, who is above, the God of their Mercies; ſo there is a
+Wiſdom from below, Earthly, Senſual and Deviliſh. Now <hi>Prgans</hi> of
+ſeveral Nations itching after Wiſdom, to ſome <pb n="40" facs="tcp:47507:21"/>ſcraps of <hi>Moſes,</hi> and other Writings relating to Morals,
+Naturals and Supernaturals, to which they adding the corrupt Ingredients of
+their own Inventions and Imaginations, ſteaming from the Lake of Wiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om from below, they patch up their
+Ethicks, Phyſicks and Metaphyſicks; hence came the Philosophy of the
+<hi>Aegyptians, Phe<g ref="char:EOLhyphen"/>nicians, Caldeans, Phrygians, Lybians, Ethiopians,
+Scithians Thra<g ref="char:EOLhyphen"/>cians, Perſians, Indians, Brachmans, Spaniards, Italians,
+Greeks, Drutdes,</hi> of <hi>Pythagoras, Socrates, Plato, Ariſtotle,</hi> of
+the <hi>Cynicks, Stoicks, Epicureans, Scepticks,</hi> &amp;c. And all
+<hi>Pagan</hi> Philoſophy and Philoſophers the Primitive Chriſtians
+denyed, and entertained not, as all their Laſcivions Poets, Comedians,
+Tragedians, and bore lively Teſtimony againſt.</p>
+            <p>
+               <hi>Conſtantine</hi> the Emperor took care that the Scriptures
+might be taught to People, judging it moſt meet that Chriſtians ſhould be
+inſtructed in the Faith of Chriſt, and not in Heathen Philoſophy;
+<hi>Euſeb. lb.</hi> 4. But the Apoſtacy prevailing, and the Myſtery of
+Ini<g ref="char:EOLhyphen"/>quity prevailing, Heatheniſm came to be entertained in Schools
+profeſſing Chriſtianity; for in the third and fourth Centuries
+Phi<g ref="char:EOLhyphen"/>loſophers had the Education of Chriſtian Youth, and no man had any
+Reputation among Chriſtian Doctors, who were not well initia<g ref="char:EOLhyphen"/>ted in Heathen
+Philoſophy, Rhetorick, Poetry, whereby the Sluces of great Impurity of
+Manners were opened; yet in every Age and Generation the Lord had his
+Witneſſes againſt the teaching of Hea<g ref="char:EOLhyphen"/>then Authors, Obſcene Books in
+Chriſtian Schools. Many Teſti<g ref="char:EOLhyphen"/>monies hereunto relating may be read in a
+little Book, called, <hi>Da<g ref="char:EOLhyphen"/>gon</hi>'s <hi>Fall before the Ark.</hi>
+            </p>
+            <p>
+               <hi>Licinus</hi> the Emperor called Heathen Learning, <hi>The Plague
+and Payſon of the Common-Welth.</hi> Trapp of Arts.</p>
+            <p>Our Country man <hi>Theophilus Gale</hi> adviſeth well, 
+<q rend="inline">'That all the Placets or Opinions of Philoſophers,
+ſhould be brought to be try<g ref="char:EOLhyphen"/>ed by the Scriptures, that there it may appear
+what ſhould be Embraced and what ſhould be Rejected.'</q>
+            </p>
+            <p>The Primmer, Pſalter, Teſtament, Bible, <hi>&amp;c.</hi> are
+taught in Schools to learn <hi>Engliſh,</hi> not Play-Books, Ballads,
+Romances, Fa<g ref="char:EOLhyphen"/>bles, Heathen Philoſophy: Why then is not <hi>Latine,</hi> and
+other Languages learned out of Pure, Wholſome, Sound, Savoury Books, but out
+of Laſcivious Heathen Books, Poets, Comedies, Trage<g ref="char:EOLhyphen"/>dies, <hi>&amp;c.?</hi>
+Were it not more Chriſtian-like, that in Books pro<g ref="char:EOLhyphen"/>vided <pb n="41" facs="tcp:47507:21"/>for that purpoſe, Youth read the Nature, Uſe and Service of Trees,
+Birds, Beaſts, Fiſh, Serpents, Infects, Earths, Mettals, Salts, Stones
+Vulgar and Precious; as alſo Rules of Gardening, Agriculture, Graſing of
+Cattle, Building, Navigation, Arithme<g ref="char:EOLhyphen"/>tick, Geography, Chronology, Sound
+Hiſtory, Medicine, Know<g ref="char:EOLhyphen"/>ledg in Law, Improvement of Lands, Chyrurgery,
+Traffick, Go<g ref="char:EOLhyphen"/>vernment, Ordering of Bees, Propagation of Plants, by Roots,
+Seeds, Slips, Layers, Suckers, by Grafting, Inoculating, Imping; of Geometry,
+of Uſeful and Neceſſary things, whereby they might be Qualified for
+Concerns of this Life, for the Help, Benefit and Advantage of others in their
+reſpective Generations, then to be trained up in Laſcivious Poems,
+Comedies, Tragedies, Frivolous Fables, Heathen Orations, Pagan Philoſophy,
+Ethicks, Phyſicks, Metaphyſick, which after the Apoſtles Days darkned Sun
+and Air, disfigured the Face, ſpoiled the Glory of the Primitive Church?</p>
+            <p>Univerſities ſtained with theſe things make more Looſe than
+Learned. <hi>Prov.</hi> 22.6. <hi>Train up a Child</hi> (ſaith
+<hi>Soloman</hi>) <hi>in the Way he ſhould go,</hi> &amp;c. Ought he to go in
+the Way of the Heathen, or learn their Abomination? No; 'tis a ſhame for
+<hi>Chriſtianty,</hi> it loud<g ref="char:EOLhyphen"/>ly proclaims want of Reformation in Churches
+Profeſſing <hi>Chriſti<g ref="char:EOLhyphen"/>anity,</hi> that Books ſavouring of Levlty,
+Indecency and Obſcenity are therein inſtilled into Youth; antient Canons
+have been exhi<g ref="char:EOLhyphen"/>bited againſt the reading of ſuch.</p>
+            <p>Through the ingreſs and overſpreading of the Apoſtacy in
+<hi>Chri<g ref="char:EOLhyphen"/>ſtendom,</hi> the Fume thereof ſo Darkened and Deluded People, as
+to account Heathen Poetry, and ſuch like pregnant Evidence, for their
+groundleſs Traditions, Controverſies, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Roman Catholicks</hi> ſay, <hi>We may find their Holy Water,
+and Sprink<g ref="char:EOLhyphen"/>ling of Sepulchers in</hi> Juvenal<hi>'s</hi> 6th Satyr. <hi>Their
+Lights in Sepulchers, in</hi> Suetonius<hi>'s</hi> Octavius. <hi>Lamps Lighted
+on Saturdays in</hi> Senecas<hi>'s</hi> 96 Epiſtle. <hi>Diſtribution of
+Tapers among the People in</hi> Macrobius<hi>'s</hi> Saturnals. <hi>Purgatory
+in</hi> Virgil<hi>'s</hi> Aeneids. Thus proving their Doctrine by Heathen
+Authors: But the Evidence of one Poor Fiſher, one Tent-maker, one
+<hi>Peter,</hi> one <hi>Paul,</hi> is a Thouſand times of more Validity.
+'Twas the Language of the Holy Men of God, to ſay, <hi>Thus ſaith the
+Lord.</hi> Of Apoſtatized Chriſtians, <hi>Thus ſaith</hi> Juvenal,
+Seneca, Virgil: This is againſt ſuch as would defend groundleſs
+Traditions by Heathen Armour.</p>
+            <p>
+               <pb n="42" facs="tcp:47507:22"/>Humane Wiſdom, Pagan Philoſophy being
+entertained in <hi>Chri<g ref="char:EOLhyphen"/>ſtendem,</hi> by little and little did wear out
+Seriouſneſs, Soundneſs, Solidity, and the Simplicity of Truth.
+<hi>Damaſcen</hi> firſt among the <hi>Greeks,</hi> about Eight Hundred
+Years ſince, as <hi>Lumbard</hi> firſt among the <hi>Latins</hi> Six
+Hundred, forming Divinity into the Rules of Phi<g ref="char:EOLhyphen"/>loſophy, brought in the
+Method of School Divinity; but where Wiſdom from below prevails, there is a
+ſound, a talk of Divinity, but 'tis caſt out of the Region of their
+Hearts.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>CAP. X. Of School-Titles, as <hi>Doctor, Batchelor of Arts,
+Maſter of Arts, Batchelor of Divinity, Doctor of Divinity,</hi>
+&amp;c.</head>
+            <p>IN the Primitive Times Goſpel Miniſters were Called, Qualified
+and Impowered of and by the Lord, to fulfill the Charge com<g ref="char:EOLhyphen"/>mitted to them;
+they laboured together to beget others into the Life of Righteouſneſs, to
+erect a Spiritual Building, a Heavenly Structure on the Rock of Ages; they
+affected not Titles, nor itch<g ref="char:EOLhyphen"/>ed after the ſame, to gain Reputation of the
+Children of this World; they had Names ſuitable to the Work and Office they
+were concerned in, as Apoſtles, Prophets, Evangeliſts, Paſtors, Teachers,
+and laboured together for the Perfecting of the Saints; Batchelors of Arts,
+Maſter of Arts were not heard of among them; Heathen Learning &amp; Arts, the
+Wiſdom of this World, they bore lively Teſtimony againſt: But the Divine
+Call being loſt, through the ingreſt of the Apoſtacy, then they
+entertained Hea<g ref="char:EOLhyphen"/>then Learning and Heathen Arts, to qualifie them for the Work
+of the Miniſtry; then aroſe an Inſatiable itch after Titles, to gain
+Honour, Reputation and Reverence among ſuch as are under the Deluſion of
+Antichriſt: Divers Degrees and Titles are conferred, according to their
+ſtanding; Batchelor of Art in ſuch a time, Maſter of Arts in ſuch a
+time, <hi>&amp;c.</hi> When Univerſity Students have got a Degree in the
+Arts, then they have a Gown and a Cap, for the ſign of it; and the Name
+Batchelor of Arts, in Latin <hi>Bacca<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>urius,</hi> which implies as much as <hi>Laurel Berries;</hi> Why
+ſo? The Pagan <hi>Romans</hi> accounted Heathen <hi>Apollo</hi> their Godd of
+Wiſdom, <pb n="43" facs="tcp:47507:22"/>and they dedicated the Laurel-Tree to him, and
+ſuch as were judg<g ref="char:EOLhyphen"/>ed deſerving, they became <hi>Laureati,</hi> that is,
+were Crowned with, or did wear Garands of Laurel, in token of Honour and Glory:
+Po<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> tell us much of theſe things.
+Now the <hi>Romans,</hi> through <hi>Con<g ref="char:EOLhyphen"/>ſta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> the great, received <hi>Chriſtianity</hi> by the Lump; and
+not knowing <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dying with
+Chriſt, that his Life might be manifeſt in their mortal Bodies, they
+continued much of their old Stuff, and other Nations received the ſame from
+them; as now in our Univer<g ref="char:EOLhyphen"/>ſities, Students having got a taſte of the
+Berries of the Laurel-Tree, dedicated to the Heathen <hi>Godd of Wiſdom,
+Apollo</hi> (as I may ſay) that is, having attained to ſuch a Degree in the
+Knowledge of Na<g ref="char:EOLhyphen"/>tural Arts, or ſuch a Standing, without much Proficiency,
+then they have a Gown and a Cap, to diſtinguiſh them, and the Title of
+<hi>Batchelor of Arts</hi> derived, as you ſee from the Heathen; and this
+Title, this Gown and Cap, are as Signs and Liveries of that, where<g ref="char:EOLhyphen"/>of they by
+their Natural Education are made Maſters; and ſuch as are attained to
+ſuch or ſuch a Degree, in <hi>Scotland,</hi> are called <hi>Laureati,
+Laureat,</hi> from the Laurel-Tree, Thus Heatheniſm crept in, is
+continued.</p>
+            <p>Object. <hi>The Title of</hi> Doctor <hi>was in the Apoſtles
+Days.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> True; but this and other Titles there, were Names
+of Office, relating to the Work they were concern'd in, and called of the Lord
+unto; this might more properly be tranſlated <hi>Teacher,</hi> ſo a Name of
+Office. <hi>Wickliff</hi> touching this thing, ſaid, 
+<q rend="inline">'A Name of Office differs much from the Name of a
+School-Degree, brought in by the Heathen.'</q> He aſcribes theſe
+School-Degrees to the Hea<g ref="char:EOLhyphen"/>then. <hi>Wickliff in Serm. Domini in Monte.</hi>
+            </p>
+            <p>
+               <hi>Zuinglius</hi> on <hi>Mat.</hi> 23. ſaid, 
+<q rend="inline">'Thou hears here, that the Titles of Maſters and
+Doctors are not of God, becauſe Chriſt forbids this thing.'</q>
+            </p>
+            <p>
+               <hi>Wilſon</hi> in his <hi>Chriſtian-Dictionary</hi> ſaith, 
+<q rend="inline">'Ambitious ſeeking after Titles ought to be
+eſchewed.'</q>
+            </p>
+            <p>
+               <hi>John Wickliff,</hi> Condemned at <hi>Conſtance,</hi> who
+Suffered as a Martyr for his Teſtimony againſt the Apoſtatized <hi>Roman
+Church;</hi> his Teſti<g ref="char:EOLhyphen"/>mony was, 
+<q rend="inline">'That Graduations and Doctorſhips in
+Univerſities and Colledges, then in uſe, conduced nothing to the <hi>Church
+of Chriſt.</hi>'</q> 
+               <pb n="44" facs="tcp:47507:23"/>So 'tis apparant, that
+<hi>Proteſtants,</hi> yea, ſuch as were Pillars of the <hi>Proteſtant
+Religion,</hi> ſaw an Evil in <hi>Heatheniſm,</hi> and the Ambitious Titles
+thereof.</p>
+            <p>Object. <hi>Theſe ſpoke againſt the Fooleries and Abuſes in
+Popiſt <g ref="char:V">Ʋ</g>niverſities.</hi>
+            </p>
+            <p>True it is; and their Fooleries and Abuſes remain Fooleries and
+Abuſes where-ever they are Practiſed; the ſelf-ſame Outward and
+Antichriſtian Forms, Faſhions and Follies remain in Univer<g ref="char:EOLhyphen"/>ſities, as in
+the Darkeſt of <hi>Popery,</hi> even unto the Hoods, Caps, Scarlet Robes,
+Doctoral Rings, Gloves, their Doctoral Dinner and Muſick. <hi>Dell.</hi>
+            </p>
+         </div>
+         <div n="11" type="chapter">
+            <head>CAP. XI. Of the <hi>Riſe</hi> of <hi>Diſtinct Habits</hi>
+uſed by the <hi>Clergy,</hi> and by <hi>Students</hi> in the
+<hi>Univerſities.</hi>
+            </head>
+            <p>IN the firſt Prieſthood <hi>Aaron</hi> and his Sons had Garments
+aſſigned them, in which they were to execute their Office, and the de<g ref="char:EOLhyphen"/>nyal
+thereof, in that Typical Diſpenſation, had been a Tranſgreſſi<g ref="char:EOLhyphen"/>on;
+thoſe their Garments were a Shadow of ſome-what to come: Now Chriſt, the
+End of the firſt, Prieſthood, of its Appurtenances, of the Law, he put an
+End to the diſtinct <hi>Aaronical</hi> Robes, as to the reſt of the Typical
+and Tranſient Shadows of that Miniſtration.</p>
+            <p>When Chriſt ſent out his Diſciples, Apoſtles, he taught them
+not to have recourſe to <hi>Aaron's</hi> Robes, nor any Imitation thereof,
+nor that their Garments ſhould be of one Colour; their Eye was hea<g ref="char:EOLhyphen"/>ven ward,
+for the Garment of Salvation, white Linnen, What's that? The Righteouſneſs
+of Saints; and in this white Linnen, Righteouſneſs of Saints; the
+Evangelical Royal Prieſtood, was and is clothed, without reſpect to
+Diſtinct Habits, or to any, but what is Common, Ordinary, Decent and Plain;
+and who Miniſter with<g ref="char:EOLhyphen"/>out this white Linnen, Righteouſneſs of Saints, and
+place Religion in Diſtinct Robes and Colours without, ſuch are falſe
+Witneſſes, made by the Will of Man, Run Unſent.</p>
+            <p>
+               <pb n="45" facs="tcp:47507:23"/>
+               <hi>Polidor Virgil</hi> ſeconds this
+Teſtimony, ſaying, 
+<q rend="inline">'In the Beginning of the Chriſtian Religion,
+Miniſters being about their holy Performance unto the Lord, put nothing on,
+but as at other times: They endeavoured rather to clothe themſelves inwardly,
+with the Virtues of the Mind, and to put off the Vices of the Body, then to put
+on new Garments.' <hi>Pol. Virg.</hi> Lib. 6. Cap. 12.</q>
+            </p>
+            <p>And while the woman was clothed with the Sun, while the Moon was
+under her Feet, while the Chriſtian Church was a Virgin to Chriſt, and
+while her Miniſters were Stars in Heaven, the Care and Regard was for the
+Robe of Righteouſneſs; no Jangling about Robes without, but the living
+Concern was to beget many to the Lord, to know Eſtabliſhment in the Word of
+his Grace: Of ſuch Miniſters 'tis truly ſaid, 
+<q> 
+                  <l>Even as the Heart hath not a Moments Reſt,</l> 
+                  <l>But Night and Day moves in our panting Breaſt</l> 
+                  <l>That by his Breathing it may ſtill impart</l> 
+                  <l>The lively Spirits about to every Part.</l> 
+                  <l>So thoſe, to whom God doth his Flock Betake,</l> 
+                  <l>Ought always Study, always Work and Wake;</l> 
+                  <l>To Breathe, by Doctrine and good Converſation,</l> 
+                  <l>The quickning Spirit into their Congregation.</l>
+               </q>
+            </p>
+            <p>Now, when this white Linnen, Righteouſneſs of Saints, Sun's
+Clothing, the inward Ornament and Garment of the Evangelical Miniſtry,
+Paſtors, Teachers, Prophets, Deacons, Elders, Biſhops, (through the
+ſteaming in of Apoſtatical Smoke, Ignorance, Dark<g ref="char:EOLhyphen"/>neſs, Hereſie,
+Traditions, Serpentine Wiſdom) was loſt within; then they began to jangle
+about Garments without; and <hi>that none ſhould be capable of Orders, or
+Eccleſiaſtical Livings and Benefits, but that conformed thereto. A
+principio non ita fuit;</hi> It was not ſo from the Beginning. Then Goſpel
+Simplicity came to be ſlighted, Worldly Pomp, Splender and Oſtentation came
+to be purſued, then the Life, Sum, Subſtance being loſt, they entertained
+<hi>Aronical</hi> Rites, and <hi>Heathen</hi> Inventions into the Chriſtian
+Church, Dark<g ref="char:EOLhyphen"/>ning Sun and Air; from this Sourſe or Spring uſhered in
+Diſtincti<g ref="char:EOLhyphen"/>on of Garments without, Gowns, Hoods, Tippets, round Caps, 
+<pb n="46" facs="tcp:47507:24"/>ſquare Caps, Gowns, with ſtanding Collars, the Pall,
+Rochet, Surplice, Copes, Bonnets, Cowls, Black Coats, Miters, Girdles
+Surſingles, &amp;c.</p>
+            <p>And to the end that Prelacy and Clergy might be had in outward
+Reverence and Honour, and as Badge to diſtinguiſh them by, it was enjoyned
+by Eccl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiaſtical Canons and
+Conſtitutions, what manner of Robes all Maſters and Fellows of Colledges
+and Halls, all Students of both Univerſities, Miniſters, Arch-Deacons,
+Pre<g ref="char:EOLhyphen"/>bendaries in Cathedral and Collegiate Churches, Deans Batchelors of Arts,
+Maſters of Arts, Batchelors in Divinity, Doctors in Divinity, Biſhops,
+Arch-Biſhops ſhould wear; and if any con<g ref="char:EOLhyphen"/>formed not thereto, What followed?
+A Thunderbolt of Excom<g ref="char:EOLhyphen"/>munication, Suſpenſion, &amp;c.</p>
+            <p>
+               <hi>Tertullian,</hi> an Ancient and Learned Latin Father, a
+Philoſopher, being convinced of the Truth of Chriſtianity, he laid away his
+Gown, grown in faſhion by the <hi>Romans</hi> having Dominion, whoſe Garbe
+it was, and took upon him the uſual Country Habit; for which he was derided,
+as many are now, for not conforming to the World. <hi>Tertul. de
+pallio.</hi>
+            </p>
+            <p>In <hi>Tertullian's</hi> time every one that was made Presbyter did
+re<g ref="char:EOLhyphen"/>nounce his Gown, which was the Roman Veſtment; and the Cler<g ref="char:EOLhyphen"/>gy and Laity
+in the end came to be both alike Habited; but not<g ref="char:EOLhyphen"/>withſtanding the Example of
+the primitive Church, wherein the Miniſters, Stars in Heaven, were redeemed
+from the Pomp, Pride and Faſhions of the World, and were no way
+diſtinguiſhed from other men, by their Veſtures; and notwithſtanding
+the Practice of <hi>Tertullian's</hi> Time, yet Pope <hi>Pius</hi> the fourth
+commanded, that the Clergy ſhould be clad in Gowns, and in the Habit peculiar
+unto them; <hi>Onuph. in vita ejus.</hi> Thus the Gown (invented by the
+<hi>Greeks,</hi> from their Example entertained by the <hi>Lydians,</hi> and
+from the <hi>Lydians,</hi> paſſed to the <hi>Romans</hi>) came to be the
+Habit of the Cler<g ref="char:EOLhyphen"/>gy, by the Popes Authority, and others after. And how this is
+ob<g ref="char:EOLhyphen"/>ſerved, every reſpective Pariſh, and Colledge Students give pregnant
+Evidence. <hi>Tertul. de pallio, Pol. Virg. lib.</hi> 3. <hi>cap.</hi> 6.</p>
+         </div>
+         <div n="12" type="chapter">
+            <pb n="47" facs="tcp:47507:24"/>
+            <head>CAP XII. Of the Garments of the Clergy being of one Colour; Of
+their Black Atire.</head>
+            <p>
+               <hi>F<g ref="char:V">Ʋ</g>ller</hi> in the third Book of his Eccleſiaſtical
+Hiſtory ſaith, That about the Year 1102. it was ordained; that the Garments
+of Clergy-men ſhould be of one colour: ſo that that Cuſtom is of no great
+Antiquity. Black Colour hath been ſo reverenced, accoun<g ref="char:EOLhyphen"/>ed ſo peculiar to
+the Clergy, that in late Years it cauſed Admira<g ref="char:EOLhyphen"/>tion, if any other Colour
+preſumed to preach, as if the Miniſtry of the Goſpel were entailed on
+that Colour; but the Lord is opening the Eyes of Thouſands to ſee the
+Folly, Emptineſs and Frothineſs of ſuch Conceits: The Habits of Black
+Gowns and Black Coats have been borrowed from <hi>Rome,</hi> or from the
+Idola<g ref="char:EOLhyphen"/>trous <hi>Chemarims. I</hi> (ſaith the Lord) <hi>will cut off the
+Remnant of</hi> Baal <hi>from this place, and the Names of the</hi> Chemarims,
+by Inter<g ref="char:EOLhyphen"/>pretation <hi>Black Coats,</hi> as profound <hi>Hebraicians</hi>
+ſay, <hi>Z<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph.</hi> 1.4.
+<hi>Junius</hi> and <hi>Tremillius</hi> on this Scripture gave this Verſion,
+<hi>Nomen A<g ref="char:EOLhyphen"/>trotorum cum ſacerdotibus;</hi> that is, the Name of Black Coats
+with the Prieſts: <hi>Hoſea</hi> Propheſied againſt them:
+<hi>Joſiah,</hi> by Inter<g ref="char:EOLhyphen"/>pretation, <hi>The Fire of the Lord,</hi>
+ſuppreſſed them; and <hi>Chriſt,</hi> the heavenly <hi>Joſiah,</hi>
+is at work to make a Reformation in the Earth, to Burn up Wood, Hay and Stuble,
+the Inventions of Men. <hi>Jcrom,</hi> a Learned Man, a Reverend Father in the
+Church, about the Year 348. bad <hi>Nepotian,</hi> being to enter into the
+Clergy, <hi>To avoid Black Attire.</hi> And a Biſhop was condemned by the
+Council of <hi>Grangre,</hi> for introducing the Faſhion of Long Sad Coloured
+Cloaks, which that Aſſembly Condemned, as unbeſeeming the Prieſthood.
+<hi>Tertul. de pallio,</hi> with the Notes of <hi>Salmaſius.</hi>
+            </p>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="48" facs="tcp:47507:25"/>
+            <head>CAP. XIII Of the PALL.</head>
+            <div type="section">
+               <p>THe <hi>Pall</hi> was an <hi>Epiſcopal</hi> Veſtment coming
+over the Shoul<g ref="char:EOLhyphen"/>ders, made of Sheep Skin, in Memorial of him that ſought the
+Stray Sheep, and having found the ſame, laid it on his Shoul<g ref="char:EOLhyphen"/>ders, Wrought
+and Embroidred with Croſſes; it was Ordained by <hi>Gregory</hi> the great,
+a Pope, <hi>That the Metropolitan Dignity, with the Honour of the Pall,
+ſhould be at</hi> London; yet for the honour of <hi>Auguſtin,</hi> called,
+<hi>Apoſtolus Anglorum,</hi> that is, <hi>The Apoſtle of the
+Engliſh;</hi> 'twas tranſlated to <hi>Canterbury.</hi> The Roman Poet
+<hi>Vergil</hi> mentions the <hi>Pall, Aen. lib.</hi> 1. For the Ground of it
+is from the <hi>Pagan Romans:</hi> I have not read of it either in the
+Moſaical or E<g ref="char:EOLhyphen"/>vangelical Diſpenſations.</p>
+               <p>Apoſtatized <hi>Chriſtian-Romaniſts</hi> derive many
+Doctrines and Ce<g ref="char:EOLhyphen"/>remonies from the old <hi>Pagans,</hi> or therein ſymbolize
+with them, and many things as Mire and Clay ſticks and cleaves to ſuch as
+would be accounted high ſharers in Reformation.</p>
+            </div>
+            <div type="section">
+               <head>Of the Corner'd Cap.</head>
+               <p> 
+                  <q rend="inline"> "The Myſtery of the <hi>Corner'd Cap,</hi>
+uſed in Univerſities (ſaith a certain Anonimous) is, <hi>That they are to
+go into the four Corners of the World to Preach the Goſpel;</hi> though
+(ſaith he) when Rich<g ref="char:EOLhyphen"/>ly ſettled in their <hi>Microcoſm,</hi> little
+World, a Pariſh, they ſeldom go out of its Corners, upon the account of
+Preaching, but exact<g ref="char:EOLhyphen"/>ly ſearch the ſame, reaping Profits and ſuppoſed
+Dues from the Living and the Dead."</q>
+               </p>
+            </div>
+         </div>
+         <div n="14" type="chapter">
+            <pb n="49" facs="tcp:47507:25"/>
+            <head>CAP. XIV. Of the S<g ref="char:V">Ʋ</g>RPLICE.</head>
+            <p>
+               <hi>AAron</hi> and his Sons, who were to Miniſter unto the Lord,
+in the Prieſts Office, were to have Coats of fine Linnen, and Linnen Breeches
+to cover their Nakedneſs, <hi>Exod.</hi> 28. Now Chriſt, a Prieſt
+forever, after the Order of <hi>Melchizedec,</hi> he put an end to the Law, to
+the Prieſthood, to its Appurtenances, being the Anti-Type, the Subſtance of
+the Typical and Tranſient Rites of the firſt Prieſthood. The Diſciples,
+Apoſtles and gathered Churches, they walked with the Lord in white Linnen,
+they had Robes made white in the Blood of the Lamb, the Armies in Heaven, the
+Primitive Church, knowing Chriſt to be the Captain of their Salvation,
+fol<g ref="char:EOLhyphen"/>lowed him on white Horſes, clothed in fine Linnen: And what was this
+Linnen? Not <hi>Aaron</hi>'s imbroidred Linnen Coat, nor his Linnen Breeches,
+but the Subſtance of theſe Shadows, their fine Linnen was the
+Righteouſneſs of Saints, and Chriſt is their Righ<g ref="char:EOLhyphen"/>touſneſs.</p>
+            <p>Now, as the Apoſtacy prevailed, the fine Linnen,
+Righteouſ<g ref="char:EOLhyphen"/>neſs of Saints was loſt, then they began to Jewdaize, yea, and
+to Gentilize, in Imitation of <hi>Aaron</hi>'s Linnen, or of the Pagan
+Prieſts, to introduce theſe Surplices. <hi>Anno.</hi> 769. Pope
+<hi>Adrian</hi> the firſt, in his Time was a Council held at
+<hi>Frankford,</hi> in which it was decreed, <hi>That whoſoever did any
+Service in the Church he ſhould perform it in a Surpliee; yea, the very
+Sexton.</hi>
+            </p>
+            <p>The Prieſts of <hi>Aegypt</hi> put on White Robes in their
+Idolatrous Worſhip, ſo were called <hi>Linigeri;</hi> yea, and the Ethnick
+<hi>Romans</hi> obſerved the Feaſt of <hi>Ceres</hi> in White Apparel:
+<hi>Ovid,</hi> a Compiler of their Antiquities ſpeaks thereof. <hi>Faſt.
+lib.</hi> 4. 
+<q> 
+                  <l>Alba decent Cererem, veſtris Cerealibus alba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l> 
+                  <l>Sumite; nnnc pulli velleris uſus abeſt. 
+<bibl>(1.)</bibl>
+                  </l>
+               </q> 
+               <q> 
+                  <l>White pleaſes <hi>Ceres,</hi> in her Cereals wear,</l> 
+                  <l>White Veſtures; Black is out of Date with her.</l>
+               </q>
+            </p>
+            <p>
+               <pb n="50" facs="tcp:47507:26"/>The <hi>D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uides</hi> had Oak-Trees in great eſtimation; they Worſhip<g ref="char:EOLhyphen"/>ped
+the Miſleen that grows thereon, as a thing ſent unto them from Heaven, they
+performed their Rites being clad in White; in imi<g ref="char:EOLhyphen"/>tation of the Linnen of the
+<hi>Jews,</hi> or of the <hi>Heathen,</hi> came the <hi>Sur<g ref="char:EOLhyphen"/>plice,</hi> ſo
+called, of its <hi>plettings, fouldings</hi> and <hi>gatherings</hi> about the
+Neck, <hi>Sur</hi> in <hi>French</hi> is as much as <hi>Surſum, above,
+upward;</hi> and <hi>Plis</hi> is as much as <hi>plico,</hi> to
+<hi>fould.</hi>
+            </p>
+            <p>One asked <hi>Edward</hi> the firſt, Why he, ſo potent a Prince,
+went in ſo mean a Garment? <hi>Old Father,</hi> ſaid he, <hi>what can I do
+more in Royal Robes, than in this my Gabbardine?</hi> But ſuch regard is had
+to theſe <hi>Surplices</hi> now, as that the Refuſers thereof are branded
+as <hi>He<g ref="char:EOLhyphen"/>reticks, Non-conformiſts:</hi> This is not the firſt Teſtimony
+that hath been born againſt them. Doctor <hi>Knewſtub</hi> told King
+<hi>James</hi> and the Biſhops, <hi>That the Surplice was an Ornanent of the
+Prieſts of</hi> Iſis, <hi>the</hi> Aegyptian <hi>Goddeſs, which was
+before</hi> Aaron: See the ground of theſe things. <hi>'Tis uſed for
+Decency,</hi> ſome ſay. I Anſwer, Is not this to be Wiſe above what is
+Written? The Apoſtles, who had the mind of Chriſt, wiſe Judges of what
+was Decent, entertain<g ref="char:EOLhyphen"/>ed no ſuch thing, neither from <hi>Jew</hi> nor
+<hi>Gentile.</hi>
+            </p>
+            <p>Many eminent in the Church in their reſpective days, bare
+faith<g ref="char:EOLhyphen"/>ful Teſtimony againſt the introducing or continuing of
+<hi>Jewiſh</hi> Sha<g ref="char:EOLhyphen"/>dows or <hi>Heathen</hi> Inventions in the Church
+profeſſing <hi>Chriſtianity.</hi>
+            </p>
+            <p>The <hi>Waldenſes,</hi> faithful <hi>Proteſtants,</hi> from whom
+ſtreamed a Sea of Blood, for their Faith and Teſtimony againſt the
+Apoſtacy of <hi>Rome,</hi> bore Record, That Prieſts Robes, Altar
+Ornaments, Palls Corporals, Chalices, Patens, and ſuch like Veſſels were
+of no vali<g ref="char:EOLhyphen"/>dity, uſe or ſervice in the Church B. <hi>
+                  <g ref="char:V">Ʋ</g>ſher.</hi>
+            </p>
+            <p>
+               <hi>Bucer</hi> refuſed to wear a ſquare Cap, and being demanded
+the Reaſon, he anſwered, <hi>God had made his Head round.</hi>
+            </p>
+            <p>
+               <hi>Philpot</hi> chuſed rather to be ſecluded the Convocation of
+the Cler<g ref="char:EOLhyphen"/>gy, then to wear a Hood and a Tippet: He dyed a Martyr for the Faith
+of the <hi>Proteſtant Church. Fox Acts</hi> and <hi>Mon.</hi>
+            </p>
+            <p>
+               <hi>Didoclavius</hi> in his Book to <hi>Damaſcen,</hi> pag. 891.
+ſaith, 
+<q rend="inline">'Hoods, Tippets and ſpuare Caps, were Introduced
+by Antichriſt, to pro<g ref="char:EOLhyphen"/>mote his Splendor. And ſaith be, 'It is a Stage-play
+Dreſs, and altogether Ridiculous, being a diſtinguiſhment of ſome Men
+from others, by Signs uſeleſs, and deſtitute of all Ornament: Upon their
+Shoulders (ſaith he) there hangs down a Hood, ſuch as <pb n="51" facs="tcp:47507:26"/>Fools uſed to wear, being neither handſome nor
+convenient.'</q>
+            </p>
+            <p>Object. <hi>Arts, though ſprung from the Heathen, and Ceremonies,
+being admitted into the</hi> Chriſtian Schools, <hi>and into the</hi> Church,
+<hi>and found uſeful, ought not to be ſpoken againſt: But Lay-men are to
+acquieſs in the Judgment of their Teachers, and to comply with</hi>
+Ariſtotles <hi>advice,</hi> Opor<g ref="char:EOLhyphen"/>tet diſcentum Credere; <hi>that is, A
+Learner muſt believe, to wit, his Teacher.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Laſcivious Heatheniſm, Poets, Comedies,
+<hi>&amp;c.</hi> and fri<g ref="char:EOLhyphen"/>volous Pagan Arts are of the Evil Communications which
+corrupt Good Manners: And <hi>Pagan</hi> Wiſdom, <hi>Jewiſh</hi> Shadows,
+<hi>Heathen</hi> Inventions, ariſing out of the Pit, after the Apoſtles
+days, dar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned Sun and Air,
+disfigured the Face, and ſpoiled the Beauty of the Pri<g ref="char:EOLhyphen"/>mitive Church; And are
+theſe things uſeful? They are without Uſe or Service, tend to promote the
+Splendor of Antichriſt: <hi>And a Learner muſt believe,</hi> ſaith
+<hi>Ariſtotle.</hi> Well, he alſo ſaid, <hi>Oportet docentem non
+mentiri;</hi> that is, A Teacher muſt not Lye. Upon this Doctor
+<hi>Rainold</hi> thus and ſoundly Reaſoned.</p>
+            <p> 
+               <q rend="inline">'If thou teach falſe things, which I ought not to
+believe, thou deals very impudently if thou require me to believe them: If thou
+wilt be believed in what thou teaches, teach what thou ought; if thou teach not
+what thou ought, I will not believe what thou teaches,' <hi>Rainold
+Orat.</hi>
+               </q> 'tis a ſad Judgement to be given up to be<g ref="char:EOLhyphen"/>lieve Lyes; 'tis a
+Symtom of a Mind or People Intoxicated, Poy<g ref="char:EOLhyphen"/>ſoned with the infernal Drugs of
+Antichriſtian Deluſions. But the Day is dawned and dawning, the Day-Star is
+riſen and ariſing, giving Wiſdoms Children to Juſtifie Wiſdom, and to
+War in Righteouſneſs againſt the Old Serpent and his Wiſdom, which is
+Fooliſhneſs with God, which hath brought the Kingdoms of this World into a
+Spiritual Timpany, puft up with Pride, Ambition, a Name of Living, yet
+Dead.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
